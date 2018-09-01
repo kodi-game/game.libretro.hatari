@@ -12,7 +12,7 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>Atari ST</platforms>
-		<extensions>ST|MSA|ZIP|STX|DIM|IPF</extensions>
+		<extensions>ST|MSA|ZIP|STX|DIM|IPF|M3U</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 	</extension>
@@ -20,7 +20,7 @@
 		<summary lang="en_GB">Atari - ST/STE/TT/Falcon (Hatari) 1.8</summary>
 		<description lang="en_GB">Hatari is an Atari ST/STE/TT/Falcon emulator. Hatari tries to emulate the hardware as close as possible for greater compatibility. Because of this, it may be slower than less accurate emulators.
 
-Supported files: .ST, .MSA, .ZIP, .STX, .DIM, .IPF</description>
+Supported files: .ST, .MSA, .ZIP, .STX, .DIM, .IPF, .M3U</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 	</extension>
