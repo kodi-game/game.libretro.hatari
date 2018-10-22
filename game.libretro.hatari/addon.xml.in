@@ -23,5 +23,6 @@
 Supported files: .ST, .MSA, .ZIP, .STX, .DIM, .IPF, .M3U</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.hatari</source>
 	</extension>
 </addon>
