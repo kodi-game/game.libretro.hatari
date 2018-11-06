@@ -1,1 +1,1 @@
-hatari https://github.com/libretro/hatari master
+hatari https://github.com/libretro/hatari/archive/86a8307e14946ae495456e7aa81af4e39de307d9.zip
