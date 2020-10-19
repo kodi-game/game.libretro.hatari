@@ -21,13 +21,17 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Frameskip"
+msgid "Fast floppy access"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Crop overscan"
+msgid "Frameskip"
 msgstr ""
 
 msgctxt "#30003"
+msgid "Crop overscan"
+msgstr ""
+
+msgctxt "#30004"
 msgid "High resolution"
 msgstr ""
