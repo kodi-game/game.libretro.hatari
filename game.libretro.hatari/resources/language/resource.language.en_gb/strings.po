@@ -29,9 +29,13 @@ msgid "Frameskip"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Crop overscan"
+msgid "Polarized audio filter"
 msgstr ""
 
 msgctxt "#30004"
+msgid "Crop overscan"
+msgstr ""
+
+msgctxt "#30005"
 msgid "High resolution"
 msgstr ""
