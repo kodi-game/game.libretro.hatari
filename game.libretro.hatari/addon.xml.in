@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.hatari"
 		name="Atari - ST/STE/TT/Falcon (Hatari)"
-		version="1.8.0.14"
+		version="1.8.0.15"
 		provider-name="Nicolas Pomarède">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
