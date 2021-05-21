@@ -22,11 +22,11 @@ msgid "Settings"
 msgstr "Настройки"
 
 msgctxt "#30001"
-msgid "Fast floppy access"
+msgid "Enable second joystick"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Frameskip"
+msgid "Disable mouse"
 msgstr ""
 
 msgctxt "#30003"
@@ -34,7 +34,7 @@ msgid "Disable keyboard"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Disable mouse"
+msgid "Fast floppy access"
 msgstr ""
 
 msgctxt "#30005"
@@ -42,7 +42,7 @@ msgid "Polarized audio filter"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Enable second joystick"
+msgid "High resolution"
 msgstr ""
 
 msgctxt "#30007"
@@ -50,5 +50,5 @@ msgid "Crop overscan"
 msgstr ""
 
 msgctxt "#30008"
-msgid "High resolution"
+msgid "Frameskip"
 msgstr ""
