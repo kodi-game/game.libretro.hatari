@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
+msgctxt "Addon Summary"
+msgid "Atari - ST/STE/TT/Falcon (Hatari) 1.8"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Hatari is an Atari ST/STE/TT/Falcon emulator. Hatari tries to emulate the hardware as close as possible for greater compatibility. Because of this, it may be slower than less accurate emulators.
+
+Supported files: .ST, .MSA, .ZIP, .STX, .DIM, .IPF, .M3U"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
