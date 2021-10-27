@@ -22,6 +22,7 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.hatari</source>
 		<summary lang="en_GB">Atari - ST/STE/TT/Falcon (Hatari) 1.8</summary>
+		<description lang="da_DK">Hatari er en Atari ST/STE/TT/Falcon-emulator.[CR][CR]Hatari forsøger at efterligne hardwaren så tæt som muligt for større kompatibilitet. På grund af dette kan den være langsommere end mindre præcise emulatorer.</description>
 		<description lang="en_GB">Hatari is an Atari ST/STE/TT/Falcon emulator.[CR][CR]Hatari tries to emulate the hardware as close as possible for greater compatibility. Because of this, it may be slower than less accurate emulators.</description>
 	</extension>
 </addon>
