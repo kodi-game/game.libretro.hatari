@@ -15,7 +15,7 @@ GPLv2
 
 ### Icon
 
-Help make me an icon!
+![Icon](game.libretro.hatari/resources/icon.png)
 
 ### Fanart
 
