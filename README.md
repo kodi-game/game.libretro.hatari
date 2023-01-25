@@ -15,7 +15,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.hatari/resources/icon.png)
+![Atari - ST/STE/TT/Falcon (Hatari) icon](game.libretro.hatari/resources/icon.png)
 
 ### Fanart
 
