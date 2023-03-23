@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgctxt "Addon Summary"
-msgid "Atari - ST/STE/TT/Falcon (Hatari) 1.8"
+msgid "Atari - ST/STE/TT/Falcon (Hatari)"
 msgstr ""
 
 msgctxt "Addon Description"
