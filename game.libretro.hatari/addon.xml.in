@@ -27,6 +27,7 @@
 		<summary lang="da_DK">Atari - ST/STE/TT/Falcon (Hatari)</summary>
 		<summary lang="en_GB">Atari - ST/STE/TT/Falcon (Hatari)</summary>
 		<summary lang="es_ES">Atari - ST/STE/TT/Falcon (Hatari)</summary>
+		<summary lang="it_IT">Atari - ST/STE/TT/Falcon (Hatari)</summary>
 		<summary lang="zh_CN">雅达利 - ST/STE/TT/Falcon (Hatari)</summary>
 		<description lang="da_DK">Hatari er en Atari ST/STE/TT/Falcon-emulator.[CR][CR]Hatari forsøger at efterligne hardwaren så tæt som muligt for større kompatibilitet. På grund af dette kan den være langsommere end mindre præcise emulatorer.</description>
 		<description lang="en_GB">Hatari is an Atari ST/STE/TT/Falcon emulator.[CR][CR]Hatari tries to emulate the hardware as close as possible for greater compatibility. Because of this, it may be slower than less accurate emulators.</description>
