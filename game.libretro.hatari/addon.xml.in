@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.hatari"
 		name="Atari - ST/STE/TT/Falcon (Hatari)"
-		version="1.8.0.36"
+		version="1.8.0.37"
 		provider-name="Nicolas Pomarède">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -12,7 +12,7 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>Atari ST</platforms>
-		<extensions>ST|MSA|ZIP|STX|DIM|IPF|M3U</extensions>
+		<extensions>ST|MSA|ZIP|STX|DIM|IPF|VHD|GEM|IDE|M3U</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<requires_opengl>false</requires_opengl>
