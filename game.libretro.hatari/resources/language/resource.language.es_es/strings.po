@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Hatari is an Atari ST/STE/TT/Falcon emulator.[CR][CR]Hatari tries to emulate the hardware as close as possible for greater compatibility. Because of this, it may be slower than less accurate emulators."
 msgstr "Hatari es un emulador de Atari ST/STE/TT/Falcon[CR][CR]Hatari intenta emular el hardware lo más fielmente posible para una mayor compatibilidad. Por ello, puede ser más lento que otros emuladores menos precisos."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Ajustes"
-
 msgctxt "#30009"
 msgid "System -> Atari Computer Machine Type"
 msgstr "Sistema -> Tipo de Máquina Ordenador Atari"
@@ -212,6 +208,10 @@ msgstr "RetroPad > Analógico Derecho > Izquierda"
 msgctxt "#30054"
 msgid "RetroPad > Right Analog > Right"
 msgstr "RetroPad > Analógico Derecho > Derecha"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Ajustes"
 
 #~ msgctxt "#30001"
 #~ msgid "Enable second joystick"

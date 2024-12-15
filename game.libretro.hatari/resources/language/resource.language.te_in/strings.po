@@ -24,10 +24,6 @@ msgctxt "Addon Description"
 msgid "Hatari is an Atari ST/STE/TT/Falcon emulator.[CR][CR]Hatari tries to emulate the hardware as close as possible for greater compatibility. Because of this, it may be slower than less accurate emulators."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr ""
-
 msgctxt "#30009"
 msgid "System -> Atari Computer Machine Type"
 msgstr ""

@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Hatari is an Atari ST/STE/TT/Falcon emulator.[CR][CR]Hatari tries to emulate the hardware as close as possible for greater compatibility. Because of this, it may be slower than less accurate emulators."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Ajustes"
-
 msgctxt "#30009"
 msgid "System -> Atari Computer Machine Type"
 msgstr ""
@@ -212,6 +208,10 @@ msgstr ""
 msgctxt "#30054"
 msgid "RetroPad > Right Analog > Right"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Ajustes"
 
 #~ msgctxt "#30007"
 #~ msgid "Crop overscan"
