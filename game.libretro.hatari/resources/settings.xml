@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30009" type="select" id="hatari_machinetype" values="st|ste|tt|falcon" default="st"/>
 		<setting label="30010" type="select" id="hatari_ramsize" values="1|0|2|4|8|14" default="1"/>
 		<setting label="30011" type="select" id="hatari_tosimage" values="default" default="default"/>
