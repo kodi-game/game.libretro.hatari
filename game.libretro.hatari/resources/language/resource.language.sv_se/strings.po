@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.hatari\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2025-04-08 15:13+0000\n"
+"PO-Revision-Date: 2025-04-11 09:05+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-hatari/sv_se/>\n"
 "Language: sv_se\n"
@@ -27,55 +27,55 @@ msgstr "Hatari är en Atari ST/STE/TT/Falcon-emulator.[CR][CR]Hatari försöker 
 
 msgctxt "#30009"
 msgid "System -> Atari Computer Machine Type"
-msgstr ""
+msgstr "System -> Typ av Atari-dator"
 
 msgctxt "#30010"
 msgid "System -> Atari Computer Ramsize"
-msgstr ""
+msgstr "System -> RAM-storlek för Atari-dator"
 
 msgctxt "#30011"
 msgid "System -> TOS Image Used (Needs Restart)"
-msgstr ""
+msgstr "System -> TOS-avbildning att använda (kräver omstart)"
 
 msgctxt "#30012"
 msgid "System -> Enable Fastboot"
-msgstr ""
+msgstr "System -> Aktivera snabbstart"
 
 msgctxt "#30013"
 msgid "System -> Reset Type"
-msgstr ""
+msgstr "System -> Omstartstyp"
 
 msgctxt "#30014"
 msgid "Input -> Start In Mouse Mode"
-msgstr ""
+msgstr "Inmatning -> Starta i musläge"
 
 msgctxt "#30015"
 msgid "Input -> Analog Stick Mouse"
-msgstr ""
+msgstr "Inmatning -> Analog spak som mus"
 
 msgctxt "#30016"
 msgid "Input -> Emulated Mouse Speed"
-msgstr ""
+msgstr "Inmatning -> Hastighet för emulerad mus"
 
 msgctxt "#30017"
 msgid "Input -> Enable Second Joystick"
-msgstr ""
+msgstr "Inmatning -> Aktivera andra styrspak"
 
 msgctxt "#30018"
 msgid "Input -> Disable Connected Mouse"
-msgstr ""
+msgstr "Inmatning -> Inaktivera ansluten mus"
 
 msgctxt "#30019"
 msgid "Input -> Disable Connected Keyboard"
-msgstr ""
+msgstr "Inmatning -> Inaktivera anslutet tangentbord"
 
 msgctxt "#30020"
 msgid "Video -> Crop Overscan."
-msgstr ""
+msgstr "Video -> Beskär overscan."
 
 msgctxt "#30021"
 msgid "Video -> Force Refresh Rate."
-msgstr ""
+msgstr "Video -> Tvinga uppdateringsfrekvens."
 
 msgctxt "#30022"
 msgid "Video -> Set Frameskip.  (Needs Restart)"
@@ -115,63 +115,63 @@ msgstr ""
 
 msgctxt "#30031"
 msgid "RetroPad > Joystick Up"
-msgstr ""
+msgstr "RetroPad > Styrspak upp"
 
 msgctxt "#30032"
 msgid "RetroPad > Joystick Down"
-msgstr ""
+msgstr "RetroPad > Styrspak ner"
 
 msgctxt "#30033"
 msgid "RetroPad > Joystick Left"
-msgstr ""
+msgstr "RetroPad > Styrspak vänster"
 
 msgctxt "#30034"
 msgid "RetroPad > Joystick Right"
-msgstr ""
+msgstr "RetroPad > Styrspak höger"
 
 msgctxt "#30035"
 msgid "RetroPad > A"
-msgstr ""
+msgstr "RetroPad > A"
 
 msgctxt "#30036"
 msgid "RetroPad > B"
-msgstr ""
+msgstr "RetroPad > B"
 
 msgctxt "#30037"
 msgid "RetroPad > X"
-msgstr ""
+msgstr "RetroPad > X"
 
 msgctxt "#30038"
 msgid "RetroPad > Y"
-msgstr ""
+msgstr "RetroPad > Y"
 
 msgctxt "#30039"
 msgid "RetroPad > Select"
-msgstr ""
+msgstr "RetroPad > Select"
 
 msgctxt "#30040"
 msgid "RetroPad > Start"
-msgstr ""
+msgstr "RetroPad > Start"
 
 msgctxt "#30041"
 msgid "RetroPad > L"
-msgstr ""
+msgstr "RetroPad > L"
 
 msgctxt "#30042"
 msgid "RetroPad > R"
-msgstr ""
+msgstr "RetroPad > R"
 
 msgctxt "#30043"
 msgid "RetroPad > L2"
-msgstr ""
+msgstr "RetroPad > L2"
 
 msgctxt "#30044"
 msgid "RetroPad > R2"
-msgstr ""
+msgstr "RetroPad > R2"
 
 msgctxt "#30045"
 msgid "RetroPad > L3"
-msgstr ""
+msgstr "RetroPad > L3"
 
 msgctxt "#30046"
 msgid "RetroPad > R3"
