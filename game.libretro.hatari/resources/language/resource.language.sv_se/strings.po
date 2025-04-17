@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.hatari\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2025-04-11 09:05+0000\n"
+"PO-Revision-Date: 2025-04-17 04:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-hatari/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Atari - ST/STE/TT/Falcon (Hatari)"
@@ -77,41 +77,49 @@ msgctxt "#30021"
 msgid "Video -> Force Refresh Rate."
 msgstr "Video -> Tvinga uppdateringsfrekvens."
 
+#, fuzzy
 msgctxt "#30022"
 msgid "Video -> Set Frameskip.  (Needs Restart)"
-msgstr ""
+msgstr "Video -> Ställ in Frameskip.  (Behöver startas om)"
 
+#, fuzzy
 msgctxt "#30023"
 msgid "Video -> Joy/Mouse Toggle/Speed Msg Location"
-msgstr ""
+msgstr "Video -> Joy/Mouse Toggle/Speed Msg Plats"
 
+#, fuzzy
 msgctxt "#30024"
 msgid "Video -> Show Drive Activity In Status Info"
-msgstr ""
+msgstr "Video -> Visa köraktivitet i statusinfo"
 
+#, fuzzy
 msgctxt "#30025"
 msgid "Media -> Fast Floppy Access"
-msgstr ""
+msgstr "Media -> Snabb diskettåtkomst"
 
+#, fuzzy
 msgctxt "#30026"
 msgid "Media -> Auto Insert Drive B"
-msgstr ""
+msgstr "Media -> Auto Insert Drive B"
 
+#, fuzzy
 msgctxt "#30027"
 msgid "Media -> Write Protect Floppy Disks"
-msgstr ""
+msgstr "Media -> Skrivskydda disketter"
 
+#, fuzzy
 msgctxt "#30028"
 msgid "Media -> Write Protect Hard Drives"
-msgstr ""
+msgstr "Media -> Skrivskyddade hårddiskar"
 
+#, fuzzy
 msgctxt "#30029"
 msgid "Polarized Audio Filter"
-msgstr ""
+msgstr "Polariserat ljudfilter"
 
 msgctxt "#30030"
 msgid "Autoload hatari.cfg."
-msgstr ""
+msgstr "Läs automatiskt in hatari.cfg."
 
 msgctxt "#30031"
 msgid "RetroPad > Joystick Up"
@@ -175,39 +183,39 @@ msgstr "RetroPad > L3"
 
 msgctxt "#30046"
 msgid "RetroPad > R3"
-msgstr ""
+msgstr "RetroPad > R3"
 
 msgctxt "#30047"
 msgid "RetroPad > Left Analog > Up"
-msgstr ""
+msgstr "RetroPad > Vänster analog > Upp"
 
 msgctxt "#30048"
 msgid "RetroPad > Left Analog > Down"
-msgstr ""
+msgstr "RetroPad > Vänster analog > Ner"
 
 msgctxt "#30049"
 msgid "RetroPad > Left Analog > Left"
-msgstr ""
+msgstr "RetroPad > Vänster analog > Vänster"
 
 msgctxt "#30050"
 msgid "RetroPad > Left Analog > Right"
-msgstr ""
+msgstr "RetroPad > Vänster analog > Höger"
 
 msgctxt "#30051"
 msgid "RetroPad > Right Analog > Up"
-msgstr ""
+msgstr "RetroPad > Höger analog > Upp"
 
 msgctxt "#30052"
 msgid "RetroPad > Right Analog > Down"
-msgstr ""
+msgstr "RetroPad > Höger analog > Ner"
 
 msgctxt "#30053"
 msgid "RetroPad > Right Analog > Left"
-msgstr ""
+msgstr "RetroPad > Höger analog > Vänster"
 
 msgctxt "#30054"
 msgid "RetroPad > Right Analog > Right"
-msgstr ""
+msgstr "RetroPad > Höger analog > Höger"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
