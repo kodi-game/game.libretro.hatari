@@ -27,14 +27,12 @@
 		<summary lang="da_DK">Atari - ST/STE/TT/Falcon (Hatari)</summary>
 		<summary lang="en_GB">Atari - ST/STE/TT/Falcon (Hatari)</summary>
 		<summary lang="es_ES">Atari - ST/STE/TT/Falcon (Hatari)</summary>
-		<summary lang="ga">Atari - ST/STE/TT/Falcon (Hatari)</summary>
 		<summary lang="it_IT">Atari - ST/STE/TT/Falcon (Hatari)</summary>
 		<summary lang="sv_SE">Atari - ST/STE/TT/Falcon (Hatari)</summary>
 		<summary lang="zh_CN">雅达利 - ST/STE/TT/ 猎鹰（哈塔里模拟器）</summary>
 		<description lang="da_DK">Hatari er en Atari ST/STE/TT/Falcon-emulator.[CR][CR]Hatari forsøger at efterligne hardwaren så tæt som muligt for større kompatibilitet. På grund af dette kan den være langsommere end mindre præcise emulatorer.</description>
 		<description lang="en_GB">Hatari is an Atari ST/STE/TT/Falcon emulator.[CR][CR]Hatari tries to emulate the hardware as close as possible for greater compatibility. Because of this, it may be slower than less accurate emulators.</description>
 		<description lang="es_ES">Hatari es un emulador de Atari ST/STE/TT/Falcon[CR][CR]Hatari intenta emular el hardware lo más fielmente posible para una mayor compatibilidad. Por ello, puede ser más lento que otros emuladores menos precisos.</description>
-		<description lang="ga">Is aithriseoir Atari ST/STE/TT/Falcon é Hatari.[CR][CR]Déanann Hatari iarracht an crua-earraí a aithris chomh dlúth agus is féidir le haghaidh comhoiriúnachta níos fearr. Mar gheall air seo, d&amp;amp;amp;amp;amp;amp;amp;apos;fhéadfadh sé a bheith níos moille ná aithriseoirí nach bhfuil chomh cruinn.</description>
 		<description lang="it_IT">Hatari è un emulatore Atari ST/STE/TT/Falcon.[CR][CR]Hatari cerca di emulare l&apos;hardware il più vicino possibile per una maggiore compatibilità. Per questo motivo, potrebbe essere più lento di emulatori meno accurati.</description>
 		<description lang="sv_SE">Hatari är en Atari ST/STE/TT/Falcon-emulator.[CR][CR]Hatari försöker emulera hårdvaran så nära som möjligt för ökad kompatibilitet. På grund av detta kan den vara långsammare än mindre exakta emulatorer.</description>
 		<description lang="zh_CN">Hatari 是一款雅达利 ST/STE/TT/ 猎鹰（Falcon）模拟器。[CR][CR]Hatari 力求尽可能贴近地模拟硬件，以实现更高的兼容性。正因如此，它可能比精度较低的模拟器运行速度更慢。</description>
