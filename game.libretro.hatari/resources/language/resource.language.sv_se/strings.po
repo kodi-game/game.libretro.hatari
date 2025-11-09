@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.hatari\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2025-04-22 22:51+0000\n"
+"PO-Revision-Date: 2025-11-09 08:13+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-hatari/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11\n"
+"X-Generator: Weblate 5.14.3\n"
 
 msgctxt "Addon Summary"
 msgid "Atari - ST/STE/TT/Falcon (Hatari)"
@@ -77,32 +77,26 @@ msgctxt "#30021"
 msgid "Video -> Force Refresh Rate."
 msgstr "Video -> Tvinga uppdateringsfrekvens."
 
-#, fuzzy
 msgctxt "#30022"
 msgid "Video -> Set Frameskip.  (Needs Restart)"
-msgstr "Video -> Ställ in Frameskip.  (Behöver startas om)"
+msgstr "Video -> Ställ in hoppa över bildrutor.  (Behöver startas om)"
 
-#, fuzzy
 msgctxt "#30023"
 msgid "Video -> Joy/Mouse Toggle/Speed Msg Location"
-msgstr "Video -> Joy/Mouse Toggle/Speed Msg Plats"
+msgstr "Video -> Joy/Mus växla/hastighet meddelandeplats"
 
-#, fuzzy
 msgctxt "#30024"
 msgid "Video -> Show Drive Activity In Status Info"
-msgstr "Video -> Visa köraktivitet i statusinfo"
+msgstr "Video -> Visa enhetsaktivitet i statusinfo"
 
-#, fuzzy
 msgctxt "#30025"
 msgid "Media -> Fast Floppy Access"
 msgstr "Media -> Snabb diskettåtkomst"
 
-#, fuzzy
 msgctxt "#30026"
 msgid "Media -> Auto Insert Drive B"
-msgstr "Media -> Auto Insert Drive B"
+msgstr "Media -> Mata automatisk in Drive B"
 
-#, fuzzy
 msgctxt "#30027"
 msgid "Media -> Write Protect Floppy Disks"
 msgstr "Media -> Skrivskydda disketter"
@@ -111,7 +105,6 @@ msgctxt "#30028"
 msgid "Media -> Write Protect Hard Drives"
 msgstr "Media -> Skrivskydda hårddiskar"
 
-#, fuzzy
 msgctxt "#30029"
 msgid "Polarized Audio Filter"
 msgstr "Polariserat ljudfilter"
