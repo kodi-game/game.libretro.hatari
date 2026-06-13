@@ -12,6 +12,7 @@
 		<setting label="30017" type="select" id="hatari_twojoy" values="true|false" default="true"/>
 		<setting label="30018" type="select" id="hatari_nomouse" values="false|true" default="false"/>
 		<setting label="30019" type="select" id="hatari_nokeys" values="false|true" default="false"/>
+		<setting label="30055" type="select" id="hatari_video_hires" values="false|true" default="false"/>
 		<setting label="30020" type="select" id="hatari_video_crop_overscan" values="true|false" default="true"/>
 		<setting label="30021" type="select" id="hatari_forcerefresh" values="auto|1|2" default="auto"/>
 		<setting label="30022" type="select" id="hatari_frameskips" values="0|1|2|3|4|5|10" default="0"/>
