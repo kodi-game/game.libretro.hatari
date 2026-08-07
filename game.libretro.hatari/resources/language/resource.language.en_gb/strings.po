@@ -213,3 +213,15 @@ msgstr ""
 msgctxt "#30055"
 msgid "Video -> High Resolution. (Needs Restart)"
 msgstr ""
+
+msgctxt "#30056"
+msgid "Media -> Floppy Drive Sound"
+msgstr ""
+
+msgctxt "#30057"
+msgid "Media -> Floppy Sound Volume"
+msgstr ""
+
+msgctxt "#30058"
+msgid "System -> CPU Speed"
+msgstr ""

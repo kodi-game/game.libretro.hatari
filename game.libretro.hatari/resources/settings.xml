@@ -18,7 +18,10 @@
 		<setting label="30022" type="select" id="hatari_frameskips" values="0|1|2|3|4|5|10" default="0"/>
 		<setting label="30023" type="select" id="hatari_joymousestatus_display" values="1|0|2" default="1"/>
 		<setting label="30024" type="select" id="hatari_led_status_display" values="true|false" default="true"/>
+		<setting label="30056" type="select" id="hatari_floppy_sound" values="true|false" default="true"/>
+		<setting label="30057" type="select" id="hatari_floppy_sound_volume" values="75|25|50|100" default="75"/>
 		<setting label="30025" type="select" id="hatari_fastfdc" values="true|false" default="true"/>
+		<setting label="30058" type="select" id="hatari_cpu_freq" values="8|16" default="8"/>
 		<setting label="30026" type="select" id="hatari_autoloadb" values="false|true" default="false"/>
 		<setting label="30027" type="select" id="hatari_writeprotect_floppy" values="off|on|auto" default="off"/>
 		<setting label="30028" type="select" id="hatari_writeprotect_hd" values="off|on|auto" default="off"/>
