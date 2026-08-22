@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.hatari\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2026-07-06 08:12+0000\n"
+"PO-Revision-Date: 2026-08-22 21:01+0000\n"
 "Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-hatari/cs_cz/>\n"
 "Language: cs_cz\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 2026.7\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 msgctxt "Addon Summary"
 msgid "Atari - ST/STE/TT/Falcon (Hatari)"
@@ -215,12 +215,866 @@ msgstr "Video -> Vysoké rozlišení (vyžaduje restart)"
 
 msgctxt "#30056"
 msgid "Media -> Floppy Drive Sound"
-msgstr ""
+msgstr "Média -> Zvuk disketové jednotky"
 
 msgctxt "#30057"
 msgid "Media -> Floppy Sound Volume"
-msgstr ""
+msgstr "Média -> Hlasitost zvuku diskety"
 
 msgctxt "#30058"
 msgid "System -> CPU Speed"
+msgstr "Systém -> Rychlost CPU"
+
+msgctxt "#30059"
+msgid "Uses hatari's polarized lowpass filters on audio to simulate distortion."
+msgstr "Hatari používá své polarizované dolní propusti na zvukovém výstupu k simulaci zkreslení."
+
+msgctxt "#30060"
+msgid "Disabled"
+msgstr "Zakázáno"
+
+msgctxt "#30061"
+msgid "Enabled"
+msgstr "Povoleno"
+
+msgctxt "#30062"
+msgid "Loads SYSTEM\\hatari\\hatari.cfg on content start.  Warning.  Overrides everything except for selected TOS image."
+msgstr "Při spuštění obsahu načte SYSTEM\\hatari\\hatari.cfg. Upozornění: přepíše vše kromě vybraného obrazu TOS."
+
+msgctxt "#30063"
+msgid "System"
+msgstr "Systém"
+
+msgctxt "#30064"
+msgid "Set Machine Type.  Ramsize.  TOS Used.  Enable Fast Boot."
+msgstr "Nastavení typu počítače, velikosti RAM, použitého TOS a rychlého spuštění."
+
+msgctxt "#30065"
+msgid "Pick emulated machine.  ST, STE, TT or Falcon (Needs Restart)"
+msgstr "Vyberte emulovaný počítač. ST, STE, TT nebo Falcon (vyžaduje restart)"
+
+msgctxt "#30066"
+msgid "ST (1.02, 2.06)"
+msgstr "ST (1.02, 2.06)"
+
+msgctxt "#30067"
+msgid "STE (1.62, 2.06)"
+msgstr "STE (1.62, 2.06)"
+
+msgctxt "#30068"
+msgid "TT (3.01, 3.05, 3.06)"
+msgstr "TT (3.01, 3.05, 3.06)"
+
+msgctxt "#30069"
+msgid "Falcon (4.00 and up)"
+msgstr "Falcon (4.00 a novější)"
+
+msgctxt "#30070"
+msgid "Set amount of emulated ram.  (Needs Restart)"
+msgstr "Nastavte velikost emulované RAM (vyžaduje restart)."
+
+msgctxt "#30071"
+msgid "512 KB"
+msgstr "512 KB"
+
+msgctxt "#30072"
+msgid "1 MB"
+msgstr "1 MB"
+
+msgctxt "#30073"
+msgid "2 MB"
+msgstr "2 MB"
+
+msgctxt "#30074"
+msgid "4 MB"
+msgstr "4 MB"
+
+msgctxt "#30075"
+msgid "8 MB"
+msgstr "8 MB"
+
+msgctxt "#30076"
+msgid "14 MB"
+msgstr "14 MB"
+
+msgctxt "#30077"
+msgid ""
+"Select from list.\n"
+"\n"
+"Place TOS images in system\\hatari\\tos\\ folder.\n"
+"Defaults to tos.img in SYSTEM folder"
 msgstr ""
+"Vyberte ze seznamu.\n"
+"\n"
+"Obrazy TOS umístěte do složky system\\hatari\\tos\\.\n"
+"Výchozí je tos.img ve složce SYSTEM."
+
+msgctxt "#30078"
+msgid "system\\tos.img (not found)"
+msgstr "system\\tos.img (nenalezeno)"
+
+msgctxt "#30079"
+msgid "Enable/Disable fast boot TOS patch."
+msgstr "Povolí/zakáže opravu rychlého spuštění TOS."
+
+msgctxt "#30080"
+msgid "Whether to Cold Start or Warm Start on \"Restart\"."
+msgstr "Určuje, zda se při volbě „Restart“ provede studené, nebo teplé spuštění."
+
+msgctxt "#30081"
+msgid "Warm Start"
+msgstr "Teplé spuštění"
+
+msgctxt "#30082"
+msgid "Cold Start"
+msgstr "Studené spuštění"
+
+msgctxt "#30083"
+msgid "Set 68000 CPU clock speed. 8 MHz is authentic ST hardware speed. 16 MHz doubles speed for faster loading and gameplay."
+msgstr "Nastaví taktovací frekvenci CPU 68000. 8 MHz je autentická rychlost hardwaru ST. 16 MHz zdvojnásobí rychlost pro rychlejší načítání a hraní."
+
+msgctxt "#30084"
+msgid "8 MHz (Authentic)"
+msgstr "8 MHz (autentická)"
+
+msgctxt "#30085"
+msgid "16 MHz (Fast)"
+msgstr "16 MHz (rychlá)"
+
+msgctxt "#30086"
+msgid "Input"
+msgstr "Vstup"
+
+msgctxt "#30087"
+msgid "Enable/Disable second joystick, system mouse or system keyboard."
+msgstr "Povolí/zakáže druhý joystick, systémovou myš nebo systémovou klávesnici."
+
+msgctxt "#30088"
+msgid "Starts with emulated mouse active on port 1.  Otherwise joystick is active on port 1."
+msgstr "Spustí se s aktivní emulovanou myší na portu 1. Jinak je na portu 1 aktivní joystick."
+
+msgctxt "#30089"
+msgid "Set whether emulated mouse is controlled by left or right analog stick."
+msgstr "Určuje, zda je emulovaná myš ovládána levou nebo pravou analogovou páčkou."
+
+msgctxt "#30090"
+msgid "Left Analog"
+msgstr "Levá analogová páčka"
+
+msgctxt "#30091"
+msgid "Right Analog"
+msgstr "Pravá analogová páčka"
+
+msgctxt "#30092"
+msgid "Set the starting mouse speed from 1 to 6.  Default is 2."
+msgstr "Nastaví počáteční rychlost myši od 1 do 6. Výchozí hodnota je 2."
+
+msgctxt "#30093"
+msgid "2 (default)"
+msgstr "2 (výchozí)"
+
+msgctxt "#30094"
+msgid "Enables a second joystick on port 2, may conflict with mouse."
+msgstr "Povolí druhý joystick na portu 2, což může být v konfliktu s myší."
+
+msgctxt "#30095"
+msgid "Prevents input from your sytem mouse device. Gamepad mouse mode (select) is not disabled."
+msgstr "Zabrání vstupu ze zařízení systémové myši. Režim myši gamepadu (Select) není zakázán."
+
+msgctxt "#30096"
+msgid "disabled"
+msgstr "Zakázáno"
+
+msgctxt "#30097"
+msgid "enabled"
+msgstr "Povoleno"
+
+msgctxt "#30098"
+msgid "Prevents input from your system keyboard. Virtual keyboard is not disabled."
+msgstr "Zabrání vstupu ze systémové klávesnice. Virtuální klávesnice se nezakáže."
+
+msgctxt "#30099"
+msgid "Video"
+msgstr "Video"
+
+msgctxt "#30100"
+msgid "Enable/Disable high resolution or overscan cropping.  Set Frameskip."
+msgstr "Povolí/zakáže vysoké rozlišení nebo ořez overscanu. Nastaví přeskakování snímků."
+
+msgctxt "#30101"
+msgid "Enable Hi-Resolution (832x576). Disable for standard low/medium resolution (352x240)."
+msgstr "Povolí vysoké rozlišení (832x576). Pro standardní nízké/střední rozlišení (352x240) zakažte."
+
+msgctxt "#30102"
+msgid "Enable for games.  Disable for low/med resolution overscan demos"
+msgstr "Povolte pro hry. Zakažte pro dema s overscanem v nízkém/středním rozlišení."
+
+msgctxt "#30103"
+msgid "Force refresh rate to Auto, NTSC 60hz or PAL 50hz.  Auto uses selected TOS rate."
+msgstr "Vynutí obnovovací frekvenci na Automaticky, NTSC 60 Hz nebo PAL 50 Hz. Automaticky používá frekvenci vybraného TOS."
+
+msgctxt "#30104"
+msgid "Auto"
+msgstr "Automaticky"
+
+msgctxt "#30105"
+msgid "NTSC 60hz"
+msgstr "NTSC 60 Hz"
+
+msgctxt "#30106"
+msgid "PAL 50hz"
+msgstr "PAL 50 Hz"
+
+msgctxt "#30107"
+msgid "Disabled, 1-4, Auto (Max 5), Auto (Max 10)."
+msgstr "Zakázáno, 1–4, Automaticky (max. 5), Automaticky (max. 10)."
+
+msgctxt "#30108"
+msgid "Auto (Max 5)"
+msgstr "Automaticky (max. 5)"
+
+msgctxt "#30109"
+msgid "Auto (Max 10)"
+msgstr "Automaticky (max. 10)"
+
+msgctxt "#30110"
+msgid "Where to display Joystick/Mouse toggle and speed change information"
+msgstr "Kde zobrazovat informace o přepnutí joysticku/myši a změně rychlosti"
+
+msgctxt "#30111"
+msgid "Off"
+msgstr "Vypnuto"
+
+msgctxt "#30112"
+msgid "Status"
+msgstr "Stav"
+
+msgctxt "#30113"
+msgid "OSD"
+msgstr "OSD"
+
+msgctxt "#30114"
+msgid "Enable to show activity in Retroarch status display"
+msgstr "Povolí zobrazení aktivity ve stavovém zobrazení RetroArchu."
+
+msgctxt "#30115"
+msgid "Media"
+msgstr "Média"
+
+msgctxt "#30116"
+msgid "Set Fast floppy access and Auto insert drive B."
+msgstr "Nastaví rychlý přístup k disketě a automatické vkládání do jednotky B."
+
+msgctxt "#30117"
+msgid "Play mechanical floppy drive sounds on disk access. Place floppy.raw (s16le stereo 44100Hz) in RetroArch system dir for custom sound."
+msgstr "Přehrávat zvuky mechanické disketové jednotky při přístupu k disku. Vlastní zvuk získáte umístěním souboru floppy.raw (s16le stereo 44100Hz) do systémového adresáře RetroArchu."
+
+msgctxt "#30118"
+msgid "Volume of the floppy drive sound effect."
+msgstr "Hlasitost zvukového efektu disketové jednotky."
+
+msgctxt "#30119"
+msgid "25%"
+msgstr "25%"
+
+msgctxt "#30120"
+msgid "50%"
+msgstr "50%"
+
+msgctxt "#30121"
+msgid "75%"
+msgstr "75%"
+
+msgctxt "#30122"
+msgid "100%"
+msgstr "100%"
+
+msgctxt "#30123"
+msgid "Decreases the time spent loading from disk."
+msgstr "Zkrátí dobu načítání z disku."
+
+msgctxt "#30124"
+msgid ""
+"Auto inserts disk in Drive B if detected.\n"
+"Use only for content that can use two drives.\n"
+"M3U loads 2nd entry.  Otherwise looks for \"b\" as last letter before extension."
+msgstr ""
+"Automaticky vloží detekovaný disk do jednotky B.\n"
+"Používejte pouze pro obsah, který může používat dvě jednotky.\n"
+"M3U načte druhou položku. Jinak hledá „b“ jako poslední písmeno před příponou."
+
+msgctxt "#30125"
+msgid "Enable/Disable write protection for floppy disks."
+msgstr "Povolí/zakáže ochranu disket proti zápisu."
+
+msgctxt "#30126"
+msgid "On"
+msgstr "Zapnuto"
+
+msgctxt "#30127"
+msgid "Enable/Disable write protection for hard drives."
+msgstr "Povolí/zakáže ochranu pevných disků proti zápisu."
+
+msgctxt "#30128"
+msgid "RetroPad Mapping"
+msgstr "Mapování RetroPadu"
+
+msgctxt "#30129"
+msgid "Configure RetroPad mapping options."
+msgstr "Nastavuje možnosti mapování RetroPadu."
+
+msgctxt "#30130"
+msgid "Unmapped defaults to joystick up."
+msgstr "Nenamapované tlačítko ve výchozím nastavení znamená joystick nahoru."
+
+msgctxt "#30131"
+msgid "---"
+msgstr "---"
+
+msgctxt "#30132"
+msgid "Toggle Joystick/Mouse"
+msgstr "Přepnout joystick/myš"
+
+msgctxt "#30133"
+msgid "Decrease Mouse Speed"
+msgstr "Snížit rychlost myši"
+
+msgctxt "#30134"
+msgid "Increase Mouse Speed"
+msgstr "Zvýšit rychlost myši"
+
+msgctxt "#30135"
+msgid "Toggle Virtual Keyboard"
+msgstr "Přepnout virtuální klávesnici"
+
+msgctxt "#30136"
+msgid "Toggle VKBD Page"
+msgstr "Přepnout stránku VKBD"
+
+msgctxt "#30137"
+msgid "Toggle VKBD Shift"
+msgstr "Přepnout Shift VKBD"
+
+msgctxt "#30138"
+msgid "Hatari Settings"
+msgstr "Nastavení Hatari"
+
+msgctxt "#30139"
+msgid "Toggle Status Display"
+msgstr "Přepnout zobrazení stavu"
+
+msgctxt "#30140"
+msgid "Rotate Disks"
+msgstr "Přepnout disky"
+
+msgctxt "#30141"
+msgid "Joystick Up"
+msgstr "Joystick nahoru"
+
+msgctxt "#30142"
+msgid "Joystick Down"
+msgstr "Joystick dolů"
+
+msgctxt "#30143"
+msgid "Joystick Left"
+msgstr "Joystick doleva"
+
+msgctxt "#30144"
+msgid "Joystick Right"
+msgstr "Joystick doprava"
+
+msgctxt "#30145"
+msgid "Joystick Fire"
+msgstr "Joystick – střelba"
+
+msgctxt "#30146"
+msgid "Joystick Turbo Fire"
+msgstr "Joystick – turbo střelba"
+
+msgctxt "#30147"
+msgid "Keyboard Backspace"
+msgstr "Klávesnice Backspace"
+
+msgctxt "#30148"
+msgid "Keyboard Tab"
+msgstr "Klávesnice Tab"
+
+msgctxt "#30149"
+msgid "Keyboard Return"
+msgstr "Klávesnice Return"
+
+msgctxt "#30150"
+msgid "Keyboard Escape"
+msgstr "Klávesnice Escape"
+
+msgctxt "#30151"
+msgid "Keyboard Space"
+msgstr "Klávesnice Space"
+
+msgctxt "#30152"
+msgid "Keyboard '"
+msgstr "Klávesnice '"
+
+msgctxt "#30153"
+msgid "Keyboard ,"
+msgstr "Klávesnice ,"
+
+msgctxt "#30154"
+msgid "Keyboard -"
+msgstr "Klávesnice -"
+
+msgctxt "#30155"
+msgid "Keyboard ."
+msgstr "Klávesnice ."
+
+msgctxt "#30156"
+msgid "Keyboard /"
+msgstr "Klávesnice /"
+
+msgctxt "#30157"
+msgid "Keyboard 0"
+msgstr "Klávesnice 0"
+
+msgctxt "#30158"
+msgid "Keyboard 1"
+msgstr "Klávesnice 1"
+
+msgctxt "#30159"
+msgid "Keyboard 2"
+msgstr "Klávesnice 2"
+
+msgctxt "#30160"
+msgid "Keyboard 3"
+msgstr "Klávesnice 3"
+
+msgctxt "#30161"
+msgid "Keyboard 4"
+msgstr "Klávesnice 4"
+
+msgctxt "#30162"
+msgid "Keyboard 5"
+msgstr "Klávesnice 5"
+
+msgctxt "#30163"
+msgid "Keyboard 6"
+msgstr "Klávesnice 6"
+
+msgctxt "#30164"
+msgid "Keyboard 7"
+msgstr "Klávesnice 7"
+
+msgctxt "#30165"
+msgid "Keyboard 8"
+msgstr "Klávesnice 8"
+
+msgctxt "#30166"
+msgid "Keyboard 9"
+msgstr "Klávesnice 9"
+
+msgctxt "#30167"
+msgid "Keyboard ;"
+msgstr "Klávesnice ;"
+
+msgctxt "#30168"
+msgid "Keyboard ="
+msgstr "Klávesnice ="
+
+msgctxt "#30169"
+msgid "Keyboard ["
+msgstr "Klávesnice ["
+
+msgctxt "#30170"
+msgid "Keyboard \\"
+msgstr "Klávesnice \\"
+
+msgctxt "#30171"
+msgid "Keyboard ]"
+msgstr "Klávesnice ]"
+
+msgctxt "#30172"
+msgid "Keyboard `"
+msgstr "Klávesnice `"
+
+msgctxt "#30173"
+msgid "Keyboard A"
+msgstr "Klávesnice A"
+
+msgctxt "#30174"
+msgid "Keyboard B"
+msgstr "Klávesnice B"
+
+msgctxt "#30175"
+msgid "Keyboard C"
+msgstr "Klávesnice C"
+
+msgctxt "#30176"
+msgid "Keyboard D"
+msgstr "Klávesnice D"
+
+msgctxt "#30177"
+msgid "Keyboard E"
+msgstr "Klávesnice E"
+
+msgctxt "#30178"
+msgid "Keyboard F"
+msgstr "Klávesnice F"
+
+msgctxt "#30179"
+msgid "Keyboard G"
+msgstr "Klávesnice G"
+
+msgctxt "#30180"
+msgid "Keyboard H"
+msgstr "Klávesnice H"
+
+msgctxt "#30181"
+msgid "Keyboard I"
+msgstr "Klávesnice I"
+
+msgctxt "#30182"
+msgid "Keyboard J"
+msgstr "Klávesnice J"
+
+msgctxt "#30183"
+msgid "Keyboard K"
+msgstr "Klávesnice K"
+
+msgctxt "#30184"
+msgid "Keyboard L"
+msgstr "Klávesnice L"
+
+msgctxt "#30185"
+msgid "Keyboard M"
+msgstr "Klávesnice M"
+
+msgctxt "#30186"
+msgid "Keyboard N"
+msgstr "Klávesnice N"
+
+msgctxt "#30187"
+msgid "Keyboard O"
+msgstr "Klávesnice O"
+
+msgctxt "#30188"
+msgid "Keyboard P"
+msgstr "Klávesnice P"
+
+msgctxt "#30189"
+msgid "Keyboard Q"
+msgstr "Klávesnice Q"
+
+msgctxt "#30190"
+msgid "Keyboard R"
+msgstr "Klávesnice R"
+
+msgctxt "#30191"
+msgid "Keyboard S"
+msgstr "Klávesnice S"
+
+msgctxt "#30192"
+msgid "Keyboard T"
+msgstr "Klávesnice T"
+
+msgctxt "#30193"
+msgid "Keyboard U"
+msgstr "Klávesnice U"
+
+msgctxt "#30194"
+msgid "Keyboard V"
+msgstr "Klávesnice V"
+
+msgctxt "#30195"
+msgid "Keyboard W"
+msgstr "Klávesnice W"
+
+msgctxt "#30196"
+msgid "Keyboard X"
+msgstr "Klávesnice X"
+
+msgctxt "#30197"
+msgid "Keyboard Y"
+msgstr "Klávesnice Y"
+
+msgctxt "#30198"
+msgid "Keyboard Z"
+msgstr "Klávesnice Z"
+
+msgctxt "#30199"
+msgid "Keyboard Numpad 0"
+msgstr "Klávesnice Numpad 0"
+
+msgctxt "#30200"
+msgid "Keyboard Numpad 1"
+msgstr "Klávesnice Numpad 1"
+
+msgctxt "#30201"
+msgid "Keyboard Numpad 2"
+msgstr "Klávesnice Numpad 2"
+
+msgctxt "#30202"
+msgid "Keyboard Numpad 3"
+msgstr "Klávesnice Numpad 3"
+
+msgctxt "#30203"
+msgid "Keyboard Numpad 4"
+msgstr "Klávesnice Numpad 4"
+
+msgctxt "#30204"
+msgid "Keyboard Numpad 5"
+msgstr "Klávesnice Numpad 5"
+
+msgctxt "#30205"
+msgid "Keyboard Numpad 6"
+msgstr "Klávesnice Numpad 6"
+
+msgctxt "#30206"
+msgid "Keyboard Numpad 7"
+msgstr "Klávesnice Numpad 7"
+
+msgctxt "#30207"
+msgid "Keyboard Numpad 8"
+msgstr "Klávesnice Numpad 8"
+
+msgctxt "#30208"
+msgid "Keyboard Numpad 9"
+msgstr "Klávesnice Numpad 9"
+
+msgctxt "#30209"
+msgid "Keyboard Numpad ."
+msgstr "Klávesnice Numpad ."
+
+msgctxt "#30210"
+msgid "Keyboard Numpad /"
+msgstr "Klávesnice Numpad /"
+
+msgctxt "#30211"
+msgid "Keyboard Numpad *"
+msgstr "Klávesnice Numpad *"
+
+msgctxt "#30212"
+msgid "Keyboard Numpad -"
+msgstr "Klávesnice Numpad -"
+
+msgctxt "#30213"
+msgid "Keyboard Numpad +"
+msgstr "Klávesnice Numpad +"
+
+msgctxt "#30214"
+msgid "Keyboard Numpad Enter"
+msgstr "Klávesnice Numpad Enter"
+
+msgctxt "#30215"
+msgid "Keyboard Numpad ="
+msgstr "Klávesnice Numpad ="
+
+msgctxt "#30216"
+msgid "Keyboard Up"
+msgstr "Klávesnice Up"
+
+msgctxt "#30217"
+msgid "Keyboard Down"
+msgstr "Klávesnice Down"
+
+msgctxt "#30218"
+msgid "Keyboard Left"
+msgstr "Klávesnice Left"
+
+msgctxt "#30219"
+msgid "Keyboard Right"
+msgstr "Klávesnice Right"
+
+msgctxt "#30220"
+msgid "Keyboard Insert"
+msgstr "Klávesnice Insert"
+
+msgctxt "#30221"
+msgid "Keyboard Delete"
+msgstr "Klávesnice Delete"
+
+msgctxt "#30222"
+msgid "Keyboard Home"
+msgstr "Klávesnice Home"
+
+msgctxt "#30223"
+msgid "Keyboard End"
+msgstr "Klávesnice End"
+
+msgctxt "#30224"
+msgid "Keyboard Page Up"
+msgstr "Klávesnice Page Up"
+
+msgctxt "#30225"
+msgid "Keyboard Page Down"
+msgstr "Klávesnice Page Down"
+
+msgctxt "#30226"
+msgid "Keyboard F1"
+msgstr "Klávesnice F1"
+
+msgctxt "#30227"
+msgid "Keyboard F2"
+msgstr "Klávesnice F2"
+
+msgctxt "#30228"
+msgid "Keyboard F3"
+msgstr "Klávesnice F3"
+
+msgctxt "#30229"
+msgid "Keyboard F4"
+msgstr "Klávesnice F4"
+
+msgctxt "#30230"
+msgid "Keyboard F5"
+msgstr "Klávesnice F5"
+
+msgctxt "#30231"
+msgid "Keyboard F6"
+msgstr "Klávesnice F6"
+
+msgctxt "#30232"
+msgid "Keyboard F7"
+msgstr "Klávesnice F7"
+
+msgctxt "#30233"
+msgid "Keyboard F8"
+msgstr "Klávesnice F8"
+
+msgctxt "#30234"
+msgid "Keyboard F9"
+msgstr "Klávesnice F9"
+
+msgctxt "#30235"
+msgid "Keyboard F10"
+msgstr "Klávesnice F10"
+
+msgctxt "#30236"
+msgid "Keyboard F11"
+msgstr "Klávesnice F11"
+
+msgctxt "#30237"
+msgid "Keyboard F12"
+msgstr "Klávesnice F12"
+
+msgctxt "#30238"
+msgid "Keyboard F13"
+msgstr "Klávesnice F13"
+
+msgctxt "#30239"
+msgid "Keyboard F14"
+msgstr "Klávesnice F14"
+
+msgctxt "#30240"
+msgid "Keyboard F15"
+msgstr "Klávesnice F15"
+
+msgctxt "#30241"
+msgid "Keyboard Caps Lock"
+msgstr "Klávesnice Caps Lock"
+
+msgctxt "#30242"
+msgid "Keyboard Undo"
+msgstr "Klávesnice Undo"
+
+msgctxt "#30243"
+msgid "Keyboard Left Shift"
+msgstr "Klávesnice Left Shift"
+
+msgctxt "#30244"
+msgid "Keyboard Right Shift"
+msgstr "Klávesnice Right Shift"
+
+msgctxt "#30245"
+msgid "Keyboard Left Control"
+msgstr "Klávesnice Left Control"
+
+msgctxt "#30246"
+msgid "Keyboard Right Control"
+msgstr "Klávesnice Right Control"
+
+msgctxt "#30247"
+msgid "Keyboard Left Alt"
+msgstr "Klávesnice Left Alt"
+
+msgctxt "#30248"
+msgid "Keyboard Right Alt"
+msgstr "Klávesnice Right Alt"
+
+msgctxt "#30249"
+msgid "Keyboard Left Super"
+msgstr "Klávesnice Left Super"
+
+msgctxt "#30250"
+msgid "Keyboard Right Super"
+msgstr "Klávesnice Right Super"
+
+msgctxt "#30251"
+msgid "Unmapped defaults to joystick down."
+msgstr "Nenamapované tlačítko ve výchozím nastavení znamená joystick dolů."
+
+msgctxt "#30252"
+msgid "Unmapped defaults to joystick left."
+msgstr "Nenamapované tlačítko ve výchozím nastavení znamená joystick doleva."
+
+msgctxt "#30253"
+msgid "Unmapped defaults to joystick right."
+msgstr "Nenamapované tlačítko ve výchozím nastavení znamená joystick doprava."
+
+msgctxt "#30254"
+msgid "Unmapped defaults to turbo fire/Mouse button 2."
+msgstr "Nenamapované tlačítko ve výchozím nastavení znamená tlačítko Turbo Fire/tlačítko myši 2."
+
+msgctxt "#30255"
+msgid ""
+"Unmapped defaults to fire/mouse button 1.\n"
+"VKBD: Press selected key."
+msgstr ""
+"Nenamapované tlačítko ve výchozím nastavení znamená tlačítko střelby/tlačítko myši 1.\n"
+"VKBD: Stiskněte vybranou klávesu."
+
+msgctxt "#30256"
+msgid "VKBD: Toggle.  Remapping overrides VKBD toggle."
+msgstr "VKBD: Přepnout. Přemapování potlačí přepínání VKBD."
+
+msgctxt "#30257"
+msgid "VKBD: Toggle 'ShiftLock'. Remapping overrides VKBD function!"
+msgstr "VKBD: Přepnout „ShiftLock“. Přemapování potlačí funkci VKBD!"
+
+msgctxt "#30258"
+msgid "Unmapped defaults to Joystick/Mouse mode toggle."
+msgstr "Nenamapované tlačítko ve výchozím nastavení znamená přepínač režimu joystick/myš."
+
+msgctxt "#30259"
+msgid "Unmapped defaults to Enter/Exit the Hatari Settings."
+msgstr "Nenamapované tlačítko ve výchozím nastavení znamená vstoupit do nastavení Hatari nebo je ukončit."
+
+msgctxt "#30260"
+msgid "Unmapped defaults to toggle the Status display."
+msgstr "Nenamapované tlačítko ve výchozím nastavení znamená přepínač zobrazení stavu."
+
+msgctxt "#30261"
+msgid "Unmapped defaults to switch virtual keyboard page."
+msgstr "Nenamapované tlačítko ve výchozím nastavení znamená přepnutí stránky virtuální klávesnice."
+
+msgctxt "#30262"
+msgid "Unmapped defaults to decrease mouse speed."
+msgstr "Nenamapované tlačítko ve výchozím nastavení znamená snížení rychlosti myši."
+
+msgctxt "#30263"
+msgid "Unmapped defaults to increase mouse speed."
+msgstr "Nenamapované tlačítko ve výchozím nastavení znamená zvýšení rychlosti myši."
+
+msgctxt "#30264"
+msgid "Unmapped defaults to space."
+msgstr "Nenamapované tlačítko ve výchozím nastavení znamená mezerník."
+
+msgctxt "#30265"
+msgid ""
+"Mouse mode must be off or on right analog.\n"
+"Ignored if assigned to VKBD.\n"
+msgstr ""
+"Režim myši musí být vypnutý nebo nastavený na pravou analogovou páčku.\n"
+"Ignorováno, pokud je přiřazeno k VKBD.\n"
+
+msgctxt "#30266"
+msgid "Mouse mode must be off or on left analog."
+msgstr "Režim myši musí být vypnutý nebo nastavený na levou analogovou páčku."
