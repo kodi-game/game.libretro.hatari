@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "Addon Summary"
-msgid "Atari - ST/STE/TT/Falcon (Hatari)"
+msgid "Atari - ST / STE / TT / Falcon (Hatari)"
 msgstr ""
 
 msgctxt "Addon Description"
@@ -26,253 +26,253 @@ msgstr ""
 
 # Empty string with ID 30000
 
-msgctxt "#30009"
-msgid "System -> Atari Computer Machine Type"
-msgstr ""
+#~ msgctxt "#30009"
+#~ msgid "System -> Atari Computer Machine Type"
+#~ msgstr ""
 
-msgctxt "#30010"
-msgid "System -> Atari Computer Ramsize"
-msgstr ""
+#~ msgctxt "#30010"
+#~ msgid "System -> Atari Computer Ramsize"
+#~ msgstr ""
 
-msgctxt "#30011"
-msgid "System -> TOS Image Used (Needs Restart)"
-msgstr ""
+#~ msgctxt "#30011"
+#~ msgid "System -> TOS Image Used (Needs Restart)"
+#~ msgstr ""
 
-msgctxt "#30012"
-msgid "System -> Enable Fastboot"
-msgstr ""
+#~ msgctxt "#30012"
+#~ msgid "System -> Enable Fastboot"
+#~ msgstr ""
 
-msgctxt "#30013"
-msgid "System -> Reset Type"
-msgstr ""
+#~ msgctxt "#30013"
+#~ msgid "System -> Reset Type"
+#~ msgstr ""
 
-msgctxt "#30014"
-msgid "Input -> Start In Mouse Mode"
-msgstr ""
+#~ msgctxt "#30014"
+#~ msgid "Input -> Start In Mouse Mode"
+#~ msgstr ""
 
-msgctxt "#30015"
-msgid "Input -> Analog Stick Mouse"
-msgstr ""
+#~ msgctxt "#30015"
+#~ msgid "Input -> Analog Stick Mouse"
+#~ msgstr ""
 
-msgctxt "#30016"
-msgid "Input -> Emulated Mouse Speed"
-msgstr ""
+#~ msgctxt "#30016"
+#~ msgid "Input -> Emulated Mouse Speed"
+#~ msgstr ""
 
-msgctxt "#30017"
-msgid "Input -> Enable Second Joystick"
-msgstr ""
+#~ msgctxt "#30017"
+#~ msgid "Input -> Enable Second Joystick"
+#~ msgstr ""
 
-msgctxt "#30018"
-msgid "Input -> Disable Connected Mouse"
-msgstr ""
+#~ msgctxt "#30018"
+#~ msgid "Input -> Disable Connected Mouse"
+#~ msgstr ""
 
-msgctxt "#30019"
-msgid "Input -> Disable Connected Keyboard"
-msgstr ""
+#~ msgctxt "#30019"
+#~ msgid "Input -> Disable Connected Keyboard"
+#~ msgstr ""
 
-msgctxt "#30020"
-msgid "Video -> Crop Overscan."
-msgstr ""
+#~ msgctxt "#30020"
+#~ msgid "Video -> Crop Overscan."
+#~ msgstr ""
 
-msgctxt "#30021"
-msgid "Video -> Force Refresh Rate."
-msgstr ""
+#~ msgctxt "#30021"
+#~ msgid "Video -> Force Refresh Rate."
+#~ msgstr ""
 
-msgctxt "#30022"
-msgid "Video -> Set Frameskip.  (Needs Restart)"
-msgstr ""
+#~ msgctxt "#30022"
+#~ msgid "Video -> Set Frameskip.  (Needs Restart)"
+#~ msgstr ""
 
-msgctxt "#30023"
-msgid "Video -> Joy/Mouse Toggle/Speed Msg Location"
-msgstr ""
+#~ msgctxt "#30023"
+#~ msgid "Video -> Joy/Mouse Toggle/Speed Msg Location"
+#~ msgstr ""
 
-msgctxt "#30024"
-msgid "Video -> Show Drive Activity In Status Info"
-msgstr ""
+#~ msgctxt "#30024"
+#~ msgid "Video -> Show Drive Activity In Status Info"
+#~ msgstr ""
 
-msgctxt "#30025"
-msgid "Media -> Fast Floppy Access"
-msgstr ""
+#~ msgctxt "#30025"
+#~ msgid "Media -> Fast Floppy Access"
+#~ msgstr ""
 
-msgctxt "#30026"
-msgid "Media -> Auto Insert Drive B"
-msgstr ""
+#~ msgctxt "#30026"
+#~ msgid "Media -> Auto Insert Drive B"
+#~ msgstr ""
 
-msgctxt "#30027"
-msgid "Media -> Write Protect Floppy Disks"
-msgstr ""
+#~ msgctxt "#30027"
+#~ msgid "Media -> Write Protect Floppy Disks"
+#~ msgstr ""
 
-msgctxt "#30028"
-msgid "Media -> Write Protect Hard Drives"
-msgstr ""
+#~ msgctxt "#30028"
+#~ msgid "Media -> Write Protect Hard Drives"
+#~ msgstr ""
 
-msgctxt "#30029"
-msgid "Polarized Audio Filter"
-msgstr ""
+#~ msgctxt "#30029"
+#~ msgid "Polarized Audio Filter"
+#~ msgstr ""
 
-msgctxt "#30030"
-msgid "Autoload hatari.cfg."
-msgstr ""
+#~ msgctxt "#30030"
+#~ msgid "Autoload hatari.cfg."
+#~ msgstr ""
 
-msgctxt "#30031"
-msgid "RetroPad > Joystick Up"
-msgstr ""
+#~ msgctxt "#30031"
+#~ msgid "RetroPad > Joystick Up"
+#~ msgstr ""
 
-msgctxt "#30032"
-msgid "RetroPad > Joystick Down"
-msgstr ""
+#~ msgctxt "#30032"
+#~ msgid "RetroPad > Joystick Down"
+#~ msgstr ""
 
-msgctxt "#30033"
-msgid "RetroPad > Joystick Left"
-msgstr ""
+#~ msgctxt "#30033"
+#~ msgid "RetroPad > Joystick Left"
+#~ msgstr ""
 
-msgctxt "#30034"
-msgid "RetroPad > Joystick Right"
-msgstr ""
+#~ msgctxt "#30034"
+#~ msgid "RetroPad > Joystick Right"
+#~ msgstr ""
 
-msgctxt "#30035"
-msgid "RetroPad > A"
-msgstr ""
+#~ msgctxt "#30035"
+#~ msgid "RetroPad > A"
+#~ msgstr ""
 
-msgctxt "#30036"
-msgid "RetroPad > B"
-msgstr ""
+#~ msgctxt "#30036"
+#~ msgid "RetroPad > B"
+#~ msgstr ""
 
-msgctxt "#30037"
-msgid "RetroPad > X"
-msgstr ""
+#~ msgctxt "#30037"
+#~ msgid "RetroPad > X"
+#~ msgstr ""
 
-msgctxt "#30038"
-msgid "RetroPad > Y"
-msgstr ""
+#~ msgctxt "#30038"
+#~ msgid "RetroPad > Y"
+#~ msgstr ""
 
-msgctxt "#30039"
-msgid "RetroPad > Select"
-msgstr ""
+#~ msgctxt "#30039"
+#~ msgid "RetroPad > Select"
+#~ msgstr ""
 
-msgctxt "#30040"
-msgid "RetroPad > Start"
-msgstr ""
+#~ msgctxt "#30040"
+#~ msgid "RetroPad > Start"
+#~ msgstr ""
 
-msgctxt "#30041"
-msgid "RetroPad > L"
-msgstr ""
+#~ msgctxt "#30041"
+#~ msgid "RetroPad > L"
+#~ msgstr ""
 
-msgctxt "#30042"
-msgid "RetroPad > R"
-msgstr ""
+#~ msgctxt "#30042"
+#~ msgid "RetroPad > R"
+#~ msgstr ""
 
-msgctxt "#30043"
-msgid "RetroPad > L2"
-msgstr ""
+#~ msgctxt "#30043"
+#~ msgid "RetroPad > L2"
+#~ msgstr ""
 
-msgctxt "#30044"
-msgid "RetroPad > R2"
-msgstr ""
+#~ msgctxt "#30044"
+#~ msgid "RetroPad > R2"
+#~ msgstr ""
 
-msgctxt "#30045"
-msgid "RetroPad > L3"
-msgstr ""
+#~ msgctxt "#30045"
+#~ msgid "RetroPad > L3"
+#~ msgstr ""
 
-msgctxt "#30046"
-msgid "RetroPad > R3"
-msgstr ""
+#~ msgctxt "#30046"
+#~ msgid "RetroPad > R3"
+#~ msgstr ""
 
-msgctxt "#30047"
-msgid "RetroPad > Left Analog > Up"
-msgstr ""
+#~ msgctxt "#30047"
+#~ msgid "RetroPad > Left Analog > Up"
+#~ msgstr ""
 
-msgctxt "#30048"
-msgid "RetroPad > Left Analog > Down"
-msgstr ""
+#~ msgctxt "#30048"
+#~ msgid "RetroPad > Left Analog > Down"
+#~ msgstr ""
 
-msgctxt "#30049"
-msgid "RetroPad > Left Analog > Left"
-msgstr ""
+#~ msgctxt "#30049"
+#~ msgid "RetroPad > Left Analog > Left"
+#~ msgstr ""
 
-msgctxt "#30050"
-msgid "RetroPad > Left Analog > Right"
-msgstr ""
+#~ msgctxt "#30050"
+#~ msgid "RetroPad > Left Analog > Right"
+#~ msgstr ""
 
-msgctxt "#30051"
-msgid "RetroPad > Right Analog > Up"
-msgstr ""
+#~ msgctxt "#30051"
+#~ msgid "RetroPad > Right Analog > Up"
+#~ msgstr ""
 
-msgctxt "#30052"
-msgid "RetroPad > Right Analog > Down"
-msgstr ""
+#~ msgctxt "#30052"
+#~ msgid "RetroPad > Right Analog > Down"
+#~ msgstr ""
 
-msgctxt "#30053"
-msgid "RetroPad > Right Analog > Left"
-msgstr ""
+#~ msgctxt "#30053"
+#~ msgid "RetroPad > Right Analog > Left"
+#~ msgstr ""
 
-msgctxt "#30054"
-msgid "RetroPad > Right Analog > Right"
-msgstr ""
+#~ msgctxt "#30054"
+#~ msgid "RetroPad > Right Analog > Right"
+#~ msgstr ""
 
-msgctxt "#30055"
-msgid "Video -> High Resolution. (Needs Restart)"
-msgstr ""
+#~ msgctxt "#30055"
+#~ msgid "Video -> High Resolution. (Needs Restart)"
+#~ msgstr ""
 
-msgctxt "#30056"
-msgid "Media -> Floppy Drive Sound"
-msgstr ""
+#~ msgctxt "#30056"
+#~ msgid "Media -> Floppy Drive Sound"
+#~ msgstr ""
 
-msgctxt "#30057"
-msgid "Media -> Floppy Sound Volume"
-msgstr ""
+#~ msgctxt "#30057"
+#~ msgid "Media -> Floppy Sound Volume"
+#~ msgstr ""
 
-msgctxt "#30058"
-msgid "System -> CPU Speed"
-msgstr ""
+#~ msgctxt "#30058"
+#~ msgid "System -> CPU Speed"
+#~ msgstr ""
 
-msgctxt "#30059"
-msgid "Uses hatari's polarized lowpass filters on audio to simulate distortion."
-msgstr ""
+#~ msgctxt "#30059"
+#~ msgid "Uses hatari's polarized lowpass filters on audio to simulate distortion."
+#~ msgstr ""
 
 msgctxt "#30060"
 msgid "Disabled"
 msgstr ""
 
-msgctxt "#30061"
-msgid "Enabled"
-msgstr ""
+#~ msgctxt "#30061"
+#~ msgid "Enabled"
+#~ msgstr ""
 
-msgctxt "#30062"
-msgid "Loads SYSTEM\\hatari\\hatari.cfg on content start.  Warning.  Overrides everything except for selected TOS image."
-msgstr ""
+#~ msgctxt "#30062"
+#~ msgid "Loads SYSTEM\\hatari\\hatari.cfg on content start.  Warning.  Overrides everything except for selected TOS image."
+#~ msgstr ""
 
 msgctxt "#30063"
 msgid "System"
 msgstr ""
 
-msgctxt "#30064"
-msgid "Set Machine Type.  Ramsize.  TOS Used.  Enable Fast Boot."
-msgstr ""
+#~ msgctxt "#30064"
+#~ msgid "Set Machine Type.  Ramsize.  TOS Used.  Enable Fast Boot."
+#~ msgstr ""
 
-msgctxt "#30065"
-msgid "Pick emulated machine.  ST, STE, TT or Falcon (Needs Restart)"
-msgstr ""
+#~ msgctxt "#30065"
+#~ msgid "Pick emulated machine.  ST, STE, TT or Falcon (Needs Restart)"
+#~ msgstr ""
 
-msgctxt "#30066"
-msgid "ST (1.02, 2.06)"
-msgstr ""
+#~ msgctxt "#30066"
+#~ msgid "ST (1.02, 2.06)"
+#~ msgstr ""
 
-msgctxt "#30067"
-msgid "STE (1.62, 2.06)"
-msgstr ""
+#~ msgctxt "#30067"
+#~ msgid "STE (1.62, 2.06)"
+#~ msgstr ""
 
-msgctxt "#30068"
-msgid "TT (3.01, 3.05, 3.06)"
-msgstr ""
+#~ msgctxt "#30068"
+#~ msgid "TT (3.01, 3.05, 3.06)"
+#~ msgstr ""
 
-msgctxt "#30069"
-msgid "Falcon (4.00 and up)"
-msgstr ""
+#~ msgctxt "#30069"
+#~ msgid "Falcon (4.00 and up)"
+#~ msgstr ""
 
-msgctxt "#30070"
-msgid "Set amount of emulated ram.  (Needs Restart)"
-msgstr ""
+#~ msgctxt "#30070"
+#~ msgid "Set amount of emulated ram.  (Needs Restart)"
+#~ msgstr ""
 
 msgctxt "#30071"
 msgid "512 KB"
@@ -298,173 +298,173 @@ msgctxt "#30076"
 msgid "14 MB"
 msgstr ""
 
-msgctxt "#30077"
-msgid "Select from list.\n\nPlace TOS images in system\\hatari\\tos\\ folder.\nDefaults to tos.img in SYSTEM folder"
-msgstr ""
+#~ msgctxt "#30077"
+#~ msgid "Select from list.\n\nPlace TOS images in system\\hatari\\tos\\ folder.\nDefaults to tos.img in SYSTEM folder"
+#~ msgstr ""
 
-msgctxt "#30078"
-msgid "system\\tos.img (not found)"
-msgstr ""
+#~ msgctxt "#30078"
+#~ msgid "system\\tos.img (not found)"
+#~ msgstr ""
 
-msgctxt "#30079"
-msgid "Enable/Disable fast boot TOS patch."
-msgstr ""
+#~ msgctxt "#30079"
+#~ msgid "Enable/Disable fast boot TOS patch."
+#~ msgstr ""
 
-msgctxt "#30080"
-msgid "Whether to Cold Start or Warm Start on \"Restart\"."
-msgstr ""
+#~ msgctxt "#30080"
+#~ msgid "Whether to Cold Start or Warm Start on \"Restart\"."
+#~ msgstr ""
 
-msgctxt "#30081"
-msgid "Warm Start"
-msgstr ""
+#~ msgctxt "#30081"
+#~ msgid "Warm Start"
+#~ msgstr ""
 
-msgctxt "#30082"
-msgid "Cold Start"
-msgstr ""
+#~ msgctxt "#30082"
+#~ msgid "Cold Start"
+#~ msgstr ""
 
-msgctxt "#30083"
-msgid "Set 68000 CPU clock speed. 8 MHz is authentic ST hardware speed. 16 MHz doubles speed for faster loading and gameplay."
-msgstr ""
+#~ msgctxt "#30083"
+#~ msgid "Set 68000 CPU clock speed. 8 MHz is authentic ST hardware speed. 16 MHz doubles speed for faster loading and gameplay."
+#~ msgstr ""
 
-msgctxt "#30084"
-msgid "8 MHz (Authentic)"
-msgstr ""
+#~ msgctxt "#30084"
+#~ msgid "8 MHz (Authentic)"
+#~ msgstr ""
 
-msgctxt "#30085"
-msgid "16 MHz (Fast)"
-msgstr ""
+#~ msgctxt "#30085"
+#~ msgid "16 MHz (Fast)"
+#~ msgstr ""
 
-msgctxt "#30086"
-msgid "Input"
-msgstr ""
+#~ msgctxt "#30086"
+#~ msgid "Input"
+#~ msgstr ""
 
-msgctxt "#30087"
-msgid "Enable/Disable second joystick, system mouse or system keyboard."
-msgstr ""
+#~ msgctxt "#30087"
+#~ msgid "Enable/Disable second joystick, system mouse or system keyboard."
+#~ msgstr ""
 
-msgctxt "#30088"
-msgid "Starts with emulated mouse active on port 1.  Otherwise joystick is active on port 1."
-msgstr ""
+#~ msgctxt "#30088"
+#~ msgid "Starts with emulated mouse active on port 1.  Otherwise joystick is active on port 1."
+#~ msgstr ""
 
-msgctxt "#30089"
-msgid "Set whether emulated mouse is controlled by left or right analog stick."
-msgstr ""
+#~ msgctxt "#30089"
+#~ msgid "Set whether emulated mouse is controlled by left or right analog stick."
+#~ msgstr ""
 
-msgctxt "#30090"
-msgid "Left Analog"
-msgstr ""
+#~ msgctxt "#30090"
+#~ msgid "Left Analog"
+#~ msgstr ""
 
-msgctxt "#30091"
-msgid "Right Analog"
-msgstr ""
+#~ msgctxt "#30091"
+#~ msgid "Right Analog"
+#~ msgstr ""
 
-msgctxt "#30092"
-msgid "Set the starting mouse speed from 1 to 6.  Default is 2."
-msgstr ""
+#~ msgctxt "#30092"
+#~ msgid "Set the starting mouse speed from 1 to 6.  Default is 2."
+#~ msgstr ""
 
-msgctxt "#30093"
-msgid "2 (default)"
-msgstr ""
+#~ msgctxt "#30093"
+#~ msgid "2 (default)"
+#~ msgstr ""
 
-msgctxt "#30094"
-msgid "Enables a second joystick on port 2, may conflict with mouse."
-msgstr ""
+#~ msgctxt "#30094"
+#~ msgid "Enables a second joystick on port 2, may conflict with mouse."
+#~ msgstr ""
 
-msgctxt "#30095"
-msgid "Prevents input from your sytem mouse device. Gamepad mouse mode (select) is not disabled."
-msgstr ""
+#~ msgctxt "#30095"
+#~ msgid "Prevents input from your sytem mouse device. Gamepad mouse mode (select) is not disabled."
+#~ msgstr ""
 
-msgctxt "#30096"
-msgid "disabled"
-msgstr ""
+#~ msgctxt "#30096"
+#~ msgid "disabled"
+#~ msgstr ""
 
-msgctxt "#30097"
-msgid "enabled"
-msgstr ""
+#~ msgctxt "#30097"
+#~ msgid "enabled"
+#~ msgstr ""
 
-msgctxt "#30098"
-msgid "Prevents input from your system keyboard. Virtual keyboard is not disabled."
-msgstr ""
+#~ msgctxt "#30098"
+#~ msgid "Prevents input from your system keyboard. Virtual keyboard is not disabled."
+#~ msgstr ""
 
-msgctxt "#30099"
-msgid "Video"
-msgstr ""
+#~ msgctxt "#30099"
+#~ msgid "Video"
+#~ msgstr ""
 
-msgctxt "#30100"
-msgid "Enable/Disable high resolution or overscan cropping.  Set Frameskip."
-msgstr ""
+#~ msgctxt "#30100"
+#~ msgid "Enable/Disable high resolution or overscan cropping.  Set Frameskip."
+#~ msgstr ""
 
-msgctxt "#30101"
-msgid "Enable Hi-Resolution (832x576). Disable for standard low/medium resolution (352x240)."
-msgstr ""
+#~ msgctxt "#30101"
+#~ msgid "Enable Hi-Resolution (832x576). Disable for standard low/medium resolution (352x240)."
+#~ msgstr ""
 
-msgctxt "#30102"
-msgid "Enable for games.  Disable for low/med resolution overscan demos"
-msgstr ""
+#~ msgctxt "#30102"
+#~ msgid "Enable for games.  Disable for low/med resolution overscan demos"
+#~ msgstr ""
 
-msgctxt "#30103"
-msgid "Force refresh rate to Auto, NTSC 60hz or PAL 50hz.  Auto uses selected TOS rate."
-msgstr ""
+#~ msgctxt "#30103"
+#~ msgid "Force refresh rate to Auto, NTSC 60hz or PAL 50hz.  Auto uses selected TOS rate."
+#~ msgstr ""
 
 msgctxt "#30104"
 msgid "Auto"
 msgstr ""
 
-msgctxt "#30105"
-msgid "NTSC 60hz"
-msgstr ""
+#~ msgctxt "#30105"
+#~ msgid "NTSC 60hz"
+#~ msgstr ""
 
-msgctxt "#30106"
-msgid "PAL 50hz"
-msgstr ""
+#~ msgctxt "#30106"
+#~ msgid "PAL 50hz"
+#~ msgstr ""
 
-msgctxt "#30107"
-msgid "Disabled, 1-4, Auto (Max 5), Auto (Max 10)."
-msgstr ""
+#~ msgctxt "#30107"
+#~ msgid "Disabled, 1-4, Auto (Max 5), Auto (Max 10)."
+#~ msgstr ""
 
-msgctxt "#30108"
-msgid "Auto (Max 5)"
-msgstr ""
+#~ msgctxt "#30108"
+#~ msgid "Auto (Max 5)"
+#~ msgstr ""
 
-msgctxt "#30109"
-msgid "Auto (Max 10)"
-msgstr ""
+#~ msgctxt "#30109"
+#~ msgid "Auto (Max 10)"
+#~ msgstr ""
 
-msgctxt "#30110"
-msgid "Where to display Joystick/Mouse toggle and speed change information"
-msgstr ""
+#~ msgctxt "#30110"
+#~ msgid "Where to display Joystick/Mouse toggle and speed change information"
+#~ msgstr ""
 
 msgctxt "#30111"
 msgid "Off"
 msgstr ""
 
-msgctxt "#30112"
-msgid "Status"
-msgstr ""
+#~ msgctxt "#30112"
+#~ msgid "Status"
+#~ msgstr ""
 
-msgctxt "#30113"
-msgid "OSD"
-msgstr ""
+#~ msgctxt "#30113"
+#~ msgid "OSD"
+#~ msgstr ""
 
-msgctxt "#30114"
-msgid "Enable to show activity in Retroarch status display"
-msgstr ""
+#~ msgctxt "#30114"
+#~ msgid "Enable to show activity in Retroarch status display"
+#~ msgstr ""
 
-msgctxt "#30115"
-msgid "Media"
-msgstr ""
+#~ msgctxt "#30115"
+#~ msgid "Media"
+#~ msgstr ""
 
-msgctxt "#30116"
-msgid "Set Fast floppy access and Auto insert drive B."
-msgstr ""
+#~ msgctxt "#30116"
+#~ msgid "Set Fast floppy access and Auto insert drive B."
+#~ msgstr ""
 
-msgctxt "#30117"
-msgid "Play mechanical floppy drive sounds on disk access. Place floppy.raw (s16le stereo 44100Hz) in RetroArch system dir for custom sound."
-msgstr ""
+#~ msgctxt "#30117"
+#~ msgid "Play mechanical floppy drive sounds on disk access. Place floppy.raw (s16le stereo 44100Hz) in RetroArch system dir for custom sound."
+#~ msgstr ""
 
-msgctxt "#30118"
-msgid "Volume of the floppy drive sound effect."
-msgstr ""
+#~ msgctxt "#30118"
+#~ msgid "Volume of the floppy drive sound effect."
+#~ msgstr ""
 
 msgctxt "#30119"
 msgid "25%"
@@ -482,602 +482,1198 @@ msgctxt "#30122"
 msgid "100%"
 msgstr ""
 
-msgctxt "#30123"
-msgid "Decreases the time spent loading from disk."
-msgstr ""
+#~ msgctxt "#30123"
+#~ msgid "Decreases the time spent loading from disk."
+#~ msgstr ""
 
-msgctxt "#30124"
-msgid "Auto inserts disk in Drive B if detected.\nUse only for content that can use two drives.\nM3U loads 2nd entry.  Otherwise looks for \"b\" as last letter before extension."
-msgstr ""
+#~ msgctxt "#30124"
+#~ msgid "Auto inserts disk in Drive B if detected.\nUse only for content that can use two drives.\nM3U loads 2nd entry.  Otherwise looks for \"b\" as last letter before extension."
+#~ msgstr ""
 
-msgctxt "#30125"
-msgid "Enable/Disable write protection for floppy disks."
-msgstr ""
+#~ msgctxt "#30125"
+#~ msgid "Enable/Disable write protection for floppy disks."
+#~ msgstr ""
 
 msgctxt "#30126"
 msgid "On"
 msgstr ""
 
-msgctxt "#30127"
-msgid "Enable/Disable write protection for hard drives."
-msgstr ""
-
-msgctxt "#30128"
-msgid "RetroPad Mapping"
-msgstr ""
-
-msgctxt "#30129"
-msgid "Configure RetroPad mapping options."
-msgstr ""
-
-msgctxt "#30130"
-msgid "Unmapped defaults to joystick up."
-msgstr ""
-
-msgctxt "#30131"
-msgid "---"
-msgstr ""
-
-msgctxt "#30132"
-msgid "Toggle Joystick/Mouse"
-msgstr ""
-
-msgctxt "#30133"
-msgid "Decrease Mouse Speed"
-msgstr ""
-
-msgctxt "#30134"
-msgid "Increase Mouse Speed"
-msgstr ""
-
-msgctxt "#30135"
-msgid "Toggle Virtual Keyboard"
-msgstr ""
-
-msgctxt "#30136"
-msgid "Toggle VKBD Page"
-msgstr ""
-
-msgctxt "#30137"
-msgid "Toggle VKBD Shift"
-msgstr ""
-
-msgctxt "#30138"
-msgid "Hatari Settings"
-msgstr ""
-
-msgctxt "#30139"
-msgid "Toggle Status Display"
-msgstr ""
-
-msgctxt "#30140"
-msgid "Rotate Disks"
-msgstr ""
-
-msgctxt "#30141"
-msgid "Joystick Up"
-msgstr ""
-
-msgctxt "#30142"
-msgid "Joystick Down"
-msgstr ""
-
-msgctxt "#30143"
-msgid "Joystick Left"
-msgstr ""
-
-msgctxt "#30144"
-msgid "Joystick Right"
-msgstr ""
-
-msgctxt "#30145"
-msgid "Joystick Fire"
-msgstr ""
-
-msgctxt "#30146"
-msgid "Joystick Turbo Fire"
-msgstr ""
-
-msgctxt "#30147"
-msgid "Keyboard Backspace"
-msgstr ""
-
-msgctxt "#30148"
-msgid "Keyboard Tab"
-msgstr ""
-
-msgctxt "#30149"
-msgid "Keyboard Return"
-msgstr ""
-
-msgctxt "#30150"
-msgid "Keyboard Escape"
-msgstr ""
-
-msgctxt "#30151"
-msgid "Keyboard Space"
-msgstr ""
-
-msgctxt "#30152"
-msgid "Keyboard '"
-msgstr ""
-
-msgctxt "#30153"
-msgid "Keyboard ,"
-msgstr ""
-
-msgctxt "#30154"
-msgid "Keyboard -"
-msgstr ""
-
-msgctxt "#30155"
-msgid "Keyboard ."
-msgstr ""
-
-msgctxt "#30156"
-msgid "Keyboard /"
-msgstr ""
-
-msgctxt "#30157"
-msgid "Keyboard 0"
-msgstr ""
-
-msgctxt "#30158"
-msgid "Keyboard 1"
-msgstr ""
-
-msgctxt "#30159"
-msgid "Keyboard 2"
-msgstr ""
-
-msgctxt "#30160"
-msgid "Keyboard 3"
-msgstr ""
-
-msgctxt "#30161"
-msgid "Keyboard 4"
-msgstr ""
-
-msgctxt "#30162"
-msgid "Keyboard 5"
-msgstr ""
-
-msgctxt "#30163"
-msgid "Keyboard 6"
-msgstr ""
-
-msgctxt "#30164"
-msgid "Keyboard 7"
-msgstr ""
-
-msgctxt "#30165"
-msgid "Keyboard 8"
-msgstr ""
-
-msgctxt "#30166"
-msgid "Keyboard 9"
-msgstr ""
-
-msgctxt "#30167"
-msgid "Keyboard ;"
-msgstr ""
-
-msgctxt "#30168"
-msgid "Keyboard ="
-msgstr ""
-
-msgctxt "#30169"
-msgid "Keyboard ["
-msgstr ""
-
-msgctxt "#30170"
-msgid "Keyboard \\"
-msgstr ""
-
-msgctxt "#30171"
-msgid "Keyboard ]"
-msgstr ""
-
-msgctxt "#30172"
-msgid "Keyboard `"
-msgstr ""
-
-msgctxt "#30173"
-msgid "Keyboard A"
-msgstr ""
-
-msgctxt "#30174"
-msgid "Keyboard B"
-msgstr ""
-
-msgctxt "#30175"
-msgid "Keyboard C"
-msgstr ""
-
-msgctxt "#30176"
-msgid "Keyboard D"
-msgstr ""
-
-msgctxt "#30177"
-msgid "Keyboard E"
-msgstr ""
-
-msgctxt "#30178"
-msgid "Keyboard F"
-msgstr ""
-
-msgctxt "#30179"
-msgid "Keyboard G"
-msgstr ""
-
-msgctxt "#30180"
-msgid "Keyboard H"
-msgstr ""
-
-msgctxt "#30181"
-msgid "Keyboard I"
-msgstr ""
-
-msgctxt "#30182"
-msgid "Keyboard J"
-msgstr ""
-
-msgctxt "#30183"
-msgid "Keyboard K"
-msgstr ""
-
-msgctxt "#30184"
-msgid "Keyboard L"
-msgstr ""
-
-msgctxt "#30185"
-msgid "Keyboard M"
-msgstr ""
-
-msgctxt "#30186"
-msgid "Keyboard N"
-msgstr ""
-
-msgctxt "#30187"
-msgid "Keyboard O"
-msgstr ""
-
-msgctxt "#30188"
-msgid "Keyboard P"
-msgstr ""
-
-msgctxt "#30189"
-msgid "Keyboard Q"
-msgstr ""
-
-msgctxt "#30190"
-msgid "Keyboard R"
-msgstr ""
-
-msgctxt "#30191"
-msgid "Keyboard S"
-msgstr ""
-
-msgctxt "#30192"
-msgid "Keyboard T"
-msgstr ""
-
-msgctxt "#30193"
-msgid "Keyboard U"
-msgstr ""
-
-msgctxt "#30194"
-msgid "Keyboard V"
-msgstr ""
-
-msgctxt "#30195"
-msgid "Keyboard W"
-msgstr ""
-
-msgctxt "#30196"
-msgid "Keyboard X"
-msgstr ""
-
-msgctxt "#30197"
-msgid "Keyboard Y"
-msgstr ""
-
-msgctxt "#30198"
-msgid "Keyboard Z"
-msgstr ""
-
-msgctxt "#30199"
-msgid "Keyboard Numpad 0"
-msgstr ""
-
-msgctxt "#30200"
-msgid "Keyboard Numpad 1"
-msgstr ""
-
-msgctxt "#30201"
-msgid "Keyboard Numpad 2"
-msgstr ""
-
-msgctxt "#30202"
-msgid "Keyboard Numpad 3"
-msgstr ""
-
-msgctxt "#30203"
-msgid "Keyboard Numpad 4"
-msgstr ""
-
-msgctxt "#30204"
-msgid "Keyboard Numpad 5"
-msgstr ""
-
-msgctxt "#30205"
-msgid "Keyboard Numpad 6"
-msgstr ""
-
-msgctxt "#30206"
-msgid "Keyboard Numpad 7"
-msgstr ""
-
-msgctxt "#30207"
-msgid "Keyboard Numpad 8"
-msgstr ""
-
-msgctxt "#30208"
-msgid "Keyboard Numpad 9"
-msgstr ""
-
-msgctxt "#30209"
-msgid "Keyboard Numpad ."
-msgstr ""
-
-msgctxt "#30210"
-msgid "Keyboard Numpad /"
-msgstr ""
-
-msgctxt "#30211"
-msgid "Keyboard Numpad *"
-msgstr ""
-
-msgctxt "#30212"
-msgid "Keyboard Numpad -"
-msgstr ""
-
-msgctxt "#30213"
-msgid "Keyboard Numpad +"
-msgstr ""
-
-msgctxt "#30214"
-msgid "Keyboard Numpad Enter"
-msgstr ""
-
-msgctxt "#30215"
-msgid "Keyboard Numpad ="
-msgstr ""
-
-msgctxt "#30216"
-msgid "Keyboard Up"
-msgstr ""
-
-msgctxt "#30217"
-msgid "Keyboard Down"
-msgstr ""
-
-msgctxt "#30218"
-msgid "Keyboard Left"
-msgstr ""
-
-msgctxt "#30219"
-msgid "Keyboard Right"
-msgstr ""
-
-msgctxt "#30220"
-msgid "Keyboard Insert"
-msgstr ""
-
-msgctxt "#30221"
-msgid "Keyboard Delete"
-msgstr ""
-
-msgctxt "#30222"
-msgid "Keyboard Home"
-msgstr ""
-
-msgctxt "#30223"
-msgid "Keyboard End"
-msgstr ""
-
-msgctxt "#30224"
-msgid "Keyboard Page Up"
-msgstr ""
-
-msgctxt "#30225"
-msgid "Keyboard Page Down"
-msgstr ""
-
-msgctxt "#30226"
-msgid "Keyboard F1"
-msgstr ""
-
-msgctxt "#30227"
-msgid "Keyboard F2"
-msgstr ""
-
-msgctxt "#30228"
-msgid "Keyboard F3"
-msgstr ""
-
-msgctxt "#30229"
-msgid "Keyboard F4"
-msgstr ""
-
-msgctxt "#30230"
-msgid "Keyboard F5"
-msgstr ""
-
-msgctxt "#30231"
-msgid "Keyboard F6"
-msgstr ""
-
-msgctxt "#30232"
-msgid "Keyboard F7"
-msgstr ""
-
-msgctxt "#30233"
-msgid "Keyboard F8"
-msgstr ""
-
-msgctxt "#30234"
-msgid "Keyboard F9"
-msgstr ""
-
-msgctxt "#30235"
-msgid "Keyboard F10"
-msgstr ""
-
-msgctxt "#30236"
-msgid "Keyboard F11"
-msgstr ""
-
-msgctxt "#30237"
-msgid "Keyboard F12"
-msgstr ""
-
-msgctxt "#30238"
-msgid "Keyboard F13"
-msgstr ""
-
-msgctxt "#30239"
-msgid "Keyboard F14"
-msgstr ""
-
-msgctxt "#30240"
-msgid "Keyboard F15"
-msgstr ""
-
-msgctxt "#30241"
-msgid "Keyboard Caps Lock"
-msgstr ""
-
-msgctxt "#30242"
-msgid "Keyboard Undo"
-msgstr ""
-
-msgctxt "#30243"
-msgid "Keyboard Left Shift"
-msgstr ""
-
-msgctxt "#30244"
-msgid "Keyboard Right Shift"
-msgstr ""
-
-msgctxt "#30245"
-msgid "Keyboard Left Control"
-msgstr ""
-
-msgctxt "#30246"
-msgid "Keyboard Right Control"
-msgstr ""
-
-msgctxt "#30247"
-msgid "Keyboard Left Alt"
-msgstr ""
-
-msgctxt "#30248"
-msgid "Keyboard Right Alt"
-msgstr ""
-
-msgctxt "#30249"
-msgid "Keyboard Left Super"
-msgstr ""
-
-msgctxt "#30250"
-msgid "Keyboard Right Super"
-msgstr ""
-
-msgctxt "#30251"
-msgid "Unmapped defaults to joystick down."
-msgstr ""
-
-msgctxt "#30252"
-msgid "Unmapped defaults to joystick left."
-msgstr ""
-
-msgctxt "#30253"
-msgid "Unmapped defaults to joystick right."
-msgstr ""
-
-msgctxt "#30254"
-msgid "Unmapped defaults to turbo fire/Mouse button 2."
-msgstr ""
-
-msgctxt "#30255"
-msgid "Unmapped defaults to fire/mouse button 1.\nVKBD: Press selected key."
-msgstr ""
-
-msgctxt "#30256"
-msgid "VKBD: Toggle.  Remapping overrides VKBD toggle."
-msgstr ""
-
-msgctxt "#30257"
-msgid "VKBD: Toggle 'ShiftLock'. Remapping overrides VKBD function!"
-msgstr ""
-
-msgctxt "#30258"
-msgid "Unmapped defaults to Joystick/Mouse mode toggle."
-msgstr ""
-
-msgctxt "#30259"
-msgid "Unmapped defaults to Enter/Exit the Hatari Settings."
-msgstr ""
-
-msgctxt "#30260"
-msgid "Unmapped defaults to toggle the Status display."
-msgstr ""
-
-msgctxt "#30261"
-msgid "Unmapped defaults to switch virtual keyboard page."
-msgstr ""
-
-msgctxt "#30262"
-msgid "Unmapped defaults to decrease mouse speed."
-msgstr ""
-
-msgctxt "#30263"
-msgid "Unmapped defaults to increase mouse speed."
-msgstr ""
-
-msgctxt "#30264"
-msgid "Unmapped defaults to space."
-msgstr ""
-
-msgctxt "#30265"
-msgid "Mouse mode must be off or on right analog.\nIgnored if assigned to VKBD.\n"
-msgstr ""
-
-msgctxt "#30266"
-msgid "Mouse mode must be off or on left analog."
-msgstr ""
+#~ msgctxt "#30127"
+#~ msgid "Enable/Disable write protection for hard drives."
+#~ msgstr ""
+
+#~ msgctxt "#30128"
+#~ msgid "RetroPad Mapping"
+#~ msgstr ""
+
+#~ msgctxt "#30129"
+#~ msgid "Configure RetroPad mapping options."
+#~ msgstr ""
+
+#~ msgctxt "#30130"
+#~ msgid "Unmapped defaults to joystick up."
+#~ msgstr ""
+
+#~ msgctxt "#30131"
+#~ msgid "---"
+#~ msgstr ""
+
+#~ msgctxt "#30132"
+#~ msgid "Toggle Joystick/Mouse"
+#~ msgstr ""
+
+#~ msgctxt "#30133"
+#~ msgid "Decrease Mouse Speed"
+#~ msgstr ""
+
+#~ msgctxt "#30134"
+#~ msgid "Increase Mouse Speed"
+#~ msgstr ""
+
+#~ msgctxt "#30135"
+#~ msgid "Toggle Virtual Keyboard"
+#~ msgstr ""
+
+#~ msgctxt "#30136"
+#~ msgid "Toggle VKBD Page"
+#~ msgstr ""
+
+#~ msgctxt "#30137"
+#~ msgid "Toggle VKBD Shift"
+#~ msgstr ""
+
+#~ msgctxt "#30138"
+#~ msgid "Hatari Settings"
+#~ msgstr ""
+
+#~ msgctxt "#30139"
+#~ msgid "Toggle Status Display"
+#~ msgstr ""
+
+#~ msgctxt "#30140"
+#~ msgid "Rotate Disks"
+#~ msgstr ""
+
+#~ msgctxt "#30141"
+#~ msgid "Joystick Up"
+#~ msgstr ""
+
+#~ msgctxt "#30142"
+#~ msgid "Joystick Down"
+#~ msgstr ""
+
+#~ msgctxt "#30143"
+#~ msgid "Joystick Left"
+#~ msgstr ""
+
+#~ msgctxt "#30144"
+#~ msgid "Joystick Right"
+#~ msgstr ""
+
+#~ msgctxt "#30145"
+#~ msgid "Joystick Fire"
+#~ msgstr ""
+
+#~ msgctxt "#30146"
+#~ msgid "Joystick Turbo Fire"
+#~ msgstr ""
+
+#~ msgctxt "#30147"
+#~ msgid "Keyboard Backspace"
+#~ msgstr ""
+
+#~ msgctxt "#30148"
+#~ msgid "Keyboard Tab"
+#~ msgstr ""
+
+#~ msgctxt "#30149"
+#~ msgid "Keyboard Return"
+#~ msgstr ""
+
+#~ msgctxt "#30150"
+#~ msgid "Keyboard Escape"
+#~ msgstr ""
+
+#~ msgctxt "#30151"
+#~ msgid "Keyboard Space"
+#~ msgstr ""
+
+#~ msgctxt "#30152"
+#~ msgid "Keyboard '"
+#~ msgstr ""
+
+#~ msgctxt "#30153"
+#~ msgid "Keyboard ,"
+#~ msgstr ""
+
+#~ msgctxt "#30154"
+#~ msgid "Keyboard -"
+#~ msgstr ""
+
+#~ msgctxt "#30155"
+#~ msgid "Keyboard ."
+#~ msgstr ""
+
+#~ msgctxt "#30156"
+#~ msgid "Keyboard /"
+#~ msgstr ""
+
+#~ msgctxt "#30157"
+#~ msgid "Keyboard 0"
+#~ msgstr ""
+
+#~ msgctxt "#30158"
+#~ msgid "Keyboard 1"
+#~ msgstr ""
+
+#~ msgctxt "#30159"
+#~ msgid "Keyboard 2"
+#~ msgstr ""
+
+#~ msgctxt "#30160"
+#~ msgid "Keyboard 3"
+#~ msgstr ""
+
+#~ msgctxt "#30161"
+#~ msgid "Keyboard 4"
+#~ msgstr ""
+
+#~ msgctxt "#30162"
+#~ msgid "Keyboard 5"
+#~ msgstr ""
+
+#~ msgctxt "#30163"
+#~ msgid "Keyboard 6"
+#~ msgstr ""
+
+#~ msgctxt "#30164"
+#~ msgid "Keyboard 7"
+#~ msgstr ""
+
+#~ msgctxt "#30165"
+#~ msgid "Keyboard 8"
+#~ msgstr ""
+
+#~ msgctxt "#30166"
+#~ msgid "Keyboard 9"
+#~ msgstr ""
+
+#~ msgctxt "#30167"
+#~ msgid "Keyboard ;"
+#~ msgstr ""
+
+#~ msgctxt "#30168"
+#~ msgid "Keyboard ="
+#~ msgstr ""
+
+#~ msgctxt "#30169"
+#~ msgid "Keyboard ["
+#~ msgstr ""
+
+#~ msgctxt "#30170"
+#~ msgid "Keyboard \\"
+#~ msgstr ""
+
+#~ msgctxt "#30171"
+#~ msgid "Keyboard ]"
+#~ msgstr ""
+
+#~ msgctxt "#30172"
+#~ msgid "Keyboard `"
+#~ msgstr ""
+
+#~ msgctxt "#30173"
+#~ msgid "Keyboard A"
+#~ msgstr ""
+
+#~ msgctxt "#30174"
+#~ msgid "Keyboard B"
+#~ msgstr ""
+
+#~ msgctxt "#30175"
+#~ msgid "Keyboard C"
+#~ msgstr ""
+
+#~ msgctxt "#30176"
+#~ msgid "Keyboard D"
+#~ msgstr ""
+
+#~ msgctxt "#30177"
+#~ msgid "Keyboard E"
+#~ msgstr ""
+
+#~ msgctxt "#30178"
+#~ msgid "Keyboard F"
+#~ msgstr ""
+
+#~ msgctxt "#30179"
+#~ msgid "Keyboard G"
+#~ msgstr ""
+
+#~ msgctxt "#30180"
+#~ msgid "Keyboard H"
+#~ msgstr ""
+
+#~ msgctxt "#30181"
+#~ msgid "Keyboard I"
+#~ msgstr ""
+
+#~ msgctxt "#30182"
+#~ msgid "Keyboard J"
+#~ msgstr ""
+
+#~ msgctxt "#30183"
+#~ msgid "Keyboard K"
+#~ msgstr ""
+
+#~ msgctxt "#30184"
+#~ msgid "Keyboard L"
+#~ msgstr ""
+
+#~ msgctxt "#30185"
+#~ msgid "Keyboard M"
+#~ msgstr ""
+
+#~ msgctxt "#30186"
+#~ msgid "Keyboard N"
+#~ msgstr ""
+
+#~ msgctxt "#30187"
+#~ msgid "Keyboard O"
+#~ msgstr ""
+
+#~ msgctxt "#30188"
+#~ msgid "Keyboard P"
+#~ msgstr ""
+
+#~ msgctxt "#30189"
+#~ msgid "Keyboard Q"
+#~ msgstr ""
+
+#~ msgctxt "#30190"
+#~ msgid "Keyboard R"
+#~ msgstr ""
+
+#~ msgctxt "#30191"
+#~ msgid "Keyboard S"
+#~ msgstr ""
+
+#~ msgctxt "#30192"
+#~ msgid "Keyboard T"
+#~ msgstr ""
+
+#~ msgctxt "#30193"
+#~ msgid "Keyboard U"
+#~ msgstr ""
+
+#~ msgctxt "#30194"
+#~ msgid "Keyboard V"
+#~ msgstr ""
+
+#~ msgctxt "#30195"
+#~ msgid "Keyboard W"
+#~ msgstr ""
+
+#~ msgctxt "#30196"
+#~ msgid "Keyboard X"
+#~ msgstr ""
+
+#~ msgctxt "#30197"
+#~ msgid "Keyboard Y"
+#~ msgstr ""
+
+#~ msgctxt "#30198"
+#~ msgid "Keyboard Z"
+#~ msgstr ""
+
+#~ msgctxt "#30199"
+#~ msgid "Keyboard Numpad 0"
+#~ msgstr ""
+
+#~ msgctxt "#30200"
+#~ msgid "Keyboard Numpad 1"
+#~ msgstr ""
+
+#~ msgctxt "#30201"
+#~ msgid "Keyboard Numpad 2"
+#~ msgstr ""
+
+#~ msgctxt "#30202"
+#~ msgid "Keyboard Numpad 3"
+#~ msgstr ""
+
+#~ msgctxt "#30203"
+#~ msgid "Keyboard Numpad 4"
+#~ msgstr ""
+
+#~ msgctxt "#30204"
+#~ msgid "Keyboard Numpad 5"
+#~ msgstr ""
+
+#~ msgctxt "#30205"
+#~ msgid "Keyboard Numpad 6"
+#~ msgstr ""
+
+#~ msgctxt "#30206"
+#~ msgid "Keyboard Numpad 7"
+#~ msgstr ""
+
+#~ msgctxt "#30207"
+#~ msgid "Keyboard Numpad 8"
+#~ msgstr ""
+
+#~ msgctxt "#30208"
+#~ msgid "Keyboard Numpad 9"
+#~ msgstr ""
+
+#~ msgctxt "#30209"
+#~ msgid "Keyboard Numpad ."
+#~ msgstr ""
+
+#~ msgctxt "#30210"
+#~ msgid "Keyboard Numpad /"
+#~ msgstr ""
+
+#~ msgctxt "#30211"
+#~ msgid "Keyboard Numpad *"
+#~ msgstr ""
+
+#~ msgctxt "#30212"
+#~ msgid "Keyboard Numpad -"
+#~ msgstr ""
+
+#~ msgctxt "#30213"
+#~ msgid "Keyboard Numpad +"
+#~ msgstr ""
+
+#~ msgctxt "#30214"
+#~ msgid "Keyboard Numpad Enter"
+#~ msgstr ""
+
+#~ msgctxt "#30215"
+#~ msgid "Keyboard Numpad ="
+#~ msgstr ""
+
+#~ msgctxt "#30216"
+#~ msgid "Keyboard Up"
+#~ msgstr ""
+
+#~ msgctxt "#30217"
+#~ msgid "Keyboard Down"
+#~ msgstr ""
+
+#~ msgctxt "#30218"
+#~ msgid "Keyboard Left"
+#~ msgstr ""
+
+#~ msgctxt "#30219"
+#~ msgid "Keyboard Right"
+#~ msgstr ""
+
+#~ msgctxt "#30220"
+#~ msgid "Keyboard Insert"
+#~ msgstr ""
+
+#~ msgctxt "#30221"
+#~ msgid "Keyboard Delete"
+#~ msgstr ""
+
+#~ msgctxt "#30222"
+#~ msgid "Keyboard Home"
+#~ msgstr ""
+
+#~ msgctxt "#30223"
+#~ msgid "Keyboard End"
+#~ msgstr ""
+
+#~ msgctxt "#30224"
+#~ msgid "Keyboard Page Up"
+#~ msgstr ""
+
+#~ msgctxt "#30225"
+#~ msgid "Keyboard Page Down"
+#~ msgstr ""
+
+#~ msgctxt "#30226"
+#~ msgid "Keyboard F1"
+#~ msgstr ""
+
+#~ msgctxt "#30227"
+#~ msgid "Keyboard F2"
+#~ msgstr ""
+
+#~ msgctxt "#30228"
+#~ msgid "Keyboard F3"
+#~ msgstr ""
+
+#~ msgctxt "#30229"
+#~ msgid "Keyboard F4"
+#~ msgstr ""
+
+#~ msgctxt "#30230"
+#~ msgid "Keyboard F5"
+#~ msgstr ""
+
+#~ msgctxt "#30231"
+#~ msgid "Keyboard F6"
+#~ msgstr ""
+
+#~ msgctxt "#30232"
+#~ msgid "Keyboard F7"
+#~ msgstr ""
+
+#~ msgctxt "#30233"
+#~ msgid "Keyboard F8"
+#~ msgstr ""
+
+#~ msgctxt "#30234"
+#~ msgid "Keyboard F9"
+#~ msgstr ""
+
+#~ msgctxt "#30235"
+#~ msgid "Keyboard F10"
+#~ msgstr ""
+
+#~ msgctxt "#30236"
+#~ msgid "Keyboard F11"
+#~ msgstr ""
+
+#~ msgctxt "#30237"
+#~ msgid "Keyboard F12"
+#~ msgstr ""
+
+#~ msgctxt "#30238"
+#~ msgid "Keyboard F13"
+#~ msgstr ""
+
+#~ msgctxt "#30239"
+#~ msgid "Keyboard F14"
+#~ msgstr ""
+
+#~ msgctxt "#30240"
+#~ msgid "Keyboard F15"
+#~ msgstr ""
+
+#~ msgctxt "#30241"
+#~ msgid "Keyboard Caps Lock"
+#~ msgstr ""
+
+#~ msgctxt "#30242"
+#~ msgid "Keyboard Undo"
+#~ msgstr ""
+
+#~ msgctxt "#30243"
+#~ msgid "Keyboard Left Shift"
+#~ msgstr ""
+
+#~ msgctxt "#30244"
+#~ msgid "Keyboard Right Shift"
+#~ msgstr ""
+
+#~ msgctxt "#30245"
+#~ msgid "Keyboard Left Control"
+#~ msgstr ""
+
+#~ msgctxt "#30246"
+#~ msgid "Keyboard Right Control"
+#~ msgstr ""
+
+#~ msgctxt "#30247"
+#~ msgid "Keyboard Left Alt"
+#~ msgstr ""
+
+#~ msgctxt "#30248"
+#~ msgid "Keyboard Right Alt"
+#~ msgstr ""
+
+#~ msgctxt "#30249"
+#~ msgid "Keyboard Left Super"
+#~ msgstr ""
+
+#~ msgctxt "#30250"
+#~ msgid "Keyboard Right Super"
+#~ msgstr ""
+
+#~ msgctxt "#30251"
+#~ msgid "Unmapped defaults to joystick down."
+#~ msgstr ""
+
+#~ msgctxt "#30252"
+#~ msgid "Unmapped defaults to joystick left."
+#~ msgstr ""
+
+#~ msgctxt "#30253"
+#~ msgid "Unmapped defaults to joystick right."
+#~ msgstr ""
+
+#~ msgctxt "#30254"
+#~ msgid "Unmapped defaults to turbo fire/Mouse button 2."
+#~ msgstr ""
+
+#~ msgctxt "#30255"
+#~ msgid "Unmapped defaults to fire/mouse button 1.\nVKBD: Press selected key."
+#~ msgstr ""
+
+#~ msgctxt "#30256"
+#~ msgid "VKBD: Toggle.  Remapping overrides VKBD toggle."
+#~ msgstr ""
+
+#~ msgctxt "#30257"
+#~ msgid "VKBD: Toggle 'ShiftLock'. Remapping overrides VKBD function!"
+#~ msgstr ""
+
+#~ msgctxt "#30258"
+#~ msgid "Unmapped defaults to Joystick/Mouse mode toggle."
+#~ msgstr ""
+
+#~ msgctxt "#30259"
+#~ msgid "Unmapped defaults to Enter/Exit the Hatari Settings."
+#~ msgstr ""
+
+#~ msgctxt "#30260"
+#~ msgid "Unmapped defaults to toggle the Status display."
+#~ msgstr ""
+
+#~ msgctxt "#30261"
+#~ msgid "Unmapped defaults to switch virtual keyboard page."
+#~ msgstr ""
+
+#~ msgctxt "#30262"
+#~ msgid "Unmapped defaults to decrease mouse speed."
+#~ msgstr ""
+
+#~ msgctxt "#30263"
+#~ msgid "Unmapped defaults to increase mouse speed."
+#~ msgstr ""
+
+#~ msgctxt "#30264"
+#~ msgid "Unmapped defaults to space."
+#~ msgstr ""
+
+#~ msgctxt "#30265"
+#~ msgid "Mouse mode must be off or on right analog.\nIgnored if assigned to VKBD.\n"
+#~ msgstr ""
+
+#~ msgctxt "#30266"
+#~ msgid "Mouse mode must be off or on left analog."
+#~ msgstr ""
 
 msgctxt "#30267"
 msgid "1"
 msgstr ""
 
-msgctxt "#30268"
-msgid "3"
-msgstr ""
+#~ msgctxt "#30268"
+#~ msgid "3"
+#~ msgstr ""
 
 msgctxt "#30269"
 msgid "4"
 msgstr ""
 
-msgctxt "#30270"
-msgid "5"
+#~ msgctxt "#30270"
+#~ msgid "5"
+#~ msgstr ""
+
+#~ msgctxt "#30271"
+#~ msgid "6"
+#~ msgstr ""
+
+#~ msgctxt "#30272"
+#~ msgid "2"
+#~ msgstr ""
+
+msgctxt "#30273"
+msgid "Configure the emulated Atari machine."
 msgstr ""
 
-msgctxt "#30271"
-msgid "6"
+msgctxt "#30274"
+msgid "Machine Type"
 msgstr ""
 
-msgctxt "#30272"
-msgid "2"
+msgctxt "#30275"
+msgid "Select the Atari machine to emulate. Requires restarting content."
+msgstr ""
+
+msgctxt "#30276"
+msgid "ST"
+msgstr ""
+
+msgctxt "#30277"
+msgid "Mega ST"
+msgstr ""
+
+msgctxt "#30278"
+msgid "STE"
+msgstr ""
+
+msgctxt "#30279"
+msgid "Mega STE"
+msgstr ""
+
+msgctxt "#30280"
+msgid "TT"
+msgstr ""
+
+msgctxt "#30281"
+msgid "Falcon"
+msgstr ""
+
+msgctxt "#30282"
+msgid "DSP Emulation (Falcon)"
+msgstr ""
+
+msgctxt "#30283"
+msgid "Select how the Falcon DSP is emulated. Requires restarting content."
+msgstr ""
+
+msgctxt "#30284"
+msgid "None"
+msgstr ""
+
+msgctxt "#30285"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "#30286"
+msgid "Emulated"
+msgstr ""
+
+msgctxt "#30287"
+msgid "Blitter (ST/STE)"
+msgstr ""
+
+msgctxt "#30288"
+msgid "Enable Blitter emulation. Requires restarting content."
+msgstr ""
+
+msgctxt "#30289"
+msgid "Fast Boot"
+msgstr ""
+
+msgctxt "#30290"
+msgid "Patch TOS and memory-valid system variables for a faster boot. Requires restarting content."
+msgstr ""
+
+msgctxt "#30291"
+msgid "Patch Timer-D"
+msgstr ""
+
+msgctxt "#30292"
+msgid "Patch Timer-D, roughly doubling ST emulation speed. Requires restarting content."
+msgstr ""
+
+msgctxt "#30293"
+msgid "CPU / FPU"
+msgstr ""
+
+msgctxt "#30294"
+msgid "Configure CPU and FPU emulation."
+msgstr ""
+
+msgctxt "#30295"
+msgid "CPU Type"
+msgstr ""
+
+msgctxt "#30296"
+msgid "Select the emulated 680x0 CPU level. Requires restarting content."
+msgstr ""
+
+msgctxt "#30297"
+msgid "68000"
+msgstr ""
+
+msgctxt "#30298"
+msgid "68010"
+msgstr ""
+
+msgctxt "#30299"
+msgid "68020"
+msgstr ""
+
+msgctxt "#30300"
+msgid "68030"
+msgstr ""
+
+msgctxt "#30301"
+msgid "68040"
+msgstr ""
+
+msgctxt "#30302"
+msgid "68060"
+msgstr ""
+
+msgctxt "#30303"
+msgid "CPU Clock"
+msgstr ""
+
+msgctxt "#30304"
+msgid "Select the emulated CPU clock speed. Requires restarting content."
+msgstr ""
+
+msgctxt "#30305"
+msgid "8 MHz"
+msgstr ""
+
+msgctxt "#30306"
+msgid "16 MHz"
+msgstr ""
+
+msgctxt "#30307"
+msgid "32 MHz"
+msgstr ""
+
+msgctxt "#30308"
+msgid "Prefetch Mode"
+msgstr ""
+
+msgctxt "#30309"
+msgid "Use a more compatible (but slower) CPU prefetch mode. Requires restarting content."
+msgstr ""
+
+msgctxt "#30310"
+msgid "Cycle Exact CPU"
+msgstr ""
+
+msgctxt "#30311"
+msgid "Use cycle exact CPU emulation. Requires restarting content."
+msgstr ""
+
+msgctxt "#30312"
+msgid "CPU Data Cache"
+msgstr ""
+
+msgctxt "#30313"
+msgid "Emulate the CPU data cache on CPUs that support it (>=68030). Requires restarting content."
+msgstr ""
+
+msgctxt "#30314"
+msgid "24-bit Addressing"
+msgstr ""
+
+msgctxt "#30315"
+msgid "Use 24-bit instead of 32-bit addressing mode. Requires restarting content."
+msgstr ""
+
+msgctxt "#30316"
+msgid "FPU Type"
+msgstr ""
+
+msgctxt "#30317"
+msgid "Select the emulated FPU. Requires restarting content."
+msgstr ""
+
+msgctxt "#30318"
+msgid "68881"
+msgstr ""
+
+msgctxt "#30319"
+msgid "68882"
+msgstr ""
+
+msgctxt "#30320"
+msgid "Internal (CPU)"
+msgstr ""
+
+msgctxt "#30321"
+msgid "Software FPU"
+msgstr ""
+
+msgctxt "#30322"
+msgid "Use full software FPU emulation instead of the faster core. Requires restarting content."
+msgstr ""
+
+msgctxt "#30323"
+msgid "MMU Emulation"
+msgstr ""
+
+msgctxt "#30324"
+msgid "Enable MMU emulation. Requires restarting content."
+msgstr ""
+
+msgctxt "#30325"
+msgid "ROM"
+msgstr ""
+
+msgctxt "#30326"
+msgid "Configure TOS ROM handling."
+msgstr ""
+
+msgctxt "#30327"
+msgid "Patch TOS"
+msgstr ""
+
+msgctxt "#30328"
+msgid "Apply Hatari's compatibility patches to the loaded TOS image. Requires restarting content."
+msgstr ""
+
+msgctxt "#30329"
+msgid "Memory"
+msgstr ""
+
+msgctxt "#30330"
+msgid "Configure ST-RAM and TT-RAM size."
+msgstr ""
+
+msgctxt "#30331"
+msgid "ST-RAM Size"
+msgstr ""
+
+msgctxt "#30332"
+msgid "Amount of ST-RAM to emulate. Requires restarting content."
+msgstr ""
+
+msgctxt "#30333"
+msgid "2.5 MB"
+msgstr ""
+
+msgctxt "#30334"
+msgid "10 MB"
+msgstr ""
+
+msgctxt "#30335"
+msgid "TT-RAM Size"
+msgstr ""
+
+msgctxt "#30336"
+msgid "Amount of 32-bit TT-RAM to emulate in addition to ST-RAM. Requires restarting content."
+msgstr ""
+
+msgctxt "#30337"
+msgid "16 MB"
+msgstr ""
+
+msgctxt "#30338"
+msgid "32 MB"
+msgstr ""
+
+msgctxt "#30339"
+msgid "64 MB"
+msgstr ""
+
+msgctxt "#30340"
+msgid "128 MB"
+msgstr ""
+
+msgctxt "#30341"
+msgid "256 MB"
+msgstr ""
+
+msgctxt "#30342"
+msgid "512 MB"
+msgstr ""
+
+msgctxt "#30343"
+msgid "1024 MB"
+msgstr ""
+
+msgctxt "#30344"
+msgid "Floppy Disks"
+msgstr ""
+
+msgctxt "#30345"
+msgid "Configure floppy disk drive emulation."
+msgstr ""
+
+msgctxt "#30346"
+msgid "Auto Insert Disk B"
+msgstr ""
+
+msgctxt "#30347"
+msgid "When a disk is inserted into drive A, automatically look for and insert a matching disk B image (e.g. 'game_a.st' -> 'game_b.st')."
+msgstr ""
+
+msgctxt "#30348"
+msgid "Fast Floppy Access"
+msgstr ""
+
+msgctxt "#30349"
+msgid "Speed up floppy disk controller emulation. Can break programs relying on accurate FDC timing."
+msgstr ""
+
+msgctxt "#30350"
+msgid "Floppy Write Protection"
+msgstr ""
+
+msgctxt "#30351"
+msgid "Write protect floppy disk image contents. 'Auto' checks the host file's write permissions."
+msgstr ""
+
+msgctxt "#30352"
+msgid "Drive LEDs"
+msgstr ""
+
+msgctxt "#30353"
+msgid "Show drive activity in the top right corner of the screen: an amber LED per floppy drive, as on an STFM, and a green one for the hard disk."
+msgstr ""
+
+msgctxt "#30354"
+msgid "Floppy Drive Sound"
+msgstr ""
+
+msgctxt "#30355"
+msgid "Play a mechanical floppy drive sound when a drive is accessed. For a sound of your own, put floppy.raw (signed 16-bit stereo at 44100 Hz, no header) in the frontend's system directory."
+msgstr ""
+
+msgctxt "#30356"
+msgid "Floppy Drive Sound Volume"
+msgstr ""
+
+msgctxt "#30357"
+msgid "Volume of the floppy drive sound."
+msgstr ""
+
+msgctxt "#30358"
+msgid "Drive A Enabled"
+msgstr ""
+
+msgctxt "#30359"
+msgid "Enable emulated floppy drive A."
+msgstr ""
+
+msgctxt "#30360"
+msgid "Drive A Heads"
+msgstr ""
+
+msgctxt "#30361"
+msgid "Number of heads for drive A."
+msgstr ""
+
+msgctxt "#30362"
+msgid "Single Sided"
+msgstr ""
+
+msgctxt "#30363"
+msgid "Double Sided"
+msgstr ""
+
+msgctxt "#30364"
+msgid "Drive B Enabled"
+msgstr ""
+
+msgctxt "#30365"
+msgid "Enable emulated floppy drive B."
+msgstr ""
+
+msgctxt "#30366"
+msgid "Drive B Heads"
+msgstr ""
+
+msgctxt "#30367"
+msgid "Number of heads for drive B."
+msgstr ""
+
+msgctxt "#30368"
+msgid "Atari Screen"
+msgstr ""
+
+msgctxt "#30369"
+msgid "Configure the emulated Atari video output."
+msgstr ""
+
+msgctxt "#30370"
+msgid "Monitor Type"
+msgstr ""
+
+msgctxt "#30371"
+msgid "Select the emulated monitor type. Requires restarting content for full effect."
+msgstr ""
+
+msgctxt "#30372"
+msgid "Monochrome"
+msgstr ""
+
+msgctxt "#30373"
+msgid "RGB / Color"
+msgstr ""
+
+msgctxt "#30374"
+msgid "VGA (TT/Falcon)"
+msgstr ""
+
+msgctxt "#30375"
+msgid "TV (Falcon)"
+msgstr ""
+
+msgctxt "#30376"
+msgid "Video Timing (ST/STE)"
+msgstr ""
+
+msgctxt "#30377"
+msgid "Wakeup state used for MMU/GLUE video timing emulation on ST/STE."
+msgstr ""
+
+msgctxt "#30378"
+msgid "Random"
+msgstr ""
+
+msgctxt "#30379"
+msgid "WS1"
+msgstr ""
+
+msgctxt "#30380"
+msgid "WS2"
+msgstr ""
+
+msgctxt "#30381"
+msgid "WS3 (default)"
+msgstr ""
+
+msgctxt "#30382"
+msgid "WS4"
+msgstr ""
+
+msgctxt "#30383"
+msgid "Show Screen Borders"
+msgstr ""
+
+msgctxt "#30384"
+msgid "Show ST/STE screen borders (needed by some overscan demos)."
+msgstr ""
+
+msgctxt "#30385"
+msgid "Spec512 Palette Threshold"
+msgstr ""
+
+msgctxt "#30386"
+msgid "Number of palette changes per line above which Spec512-style images are detected. 'Disabled' turns off Spec512 support."
+msgstr ""
+
+msgctxt "#30387"
+msgid "16"
+msgstr ""
+
+msgctxt "#30388"
+msgid "64"
+msgstr ""
+
+msgctxt "#30389"
+msgid "128"
+msgstr ""
+
+msgctxt "#30390"
+msgid "192"
+msgstr ""
+
+msgctxt "#30391"
+msgid "256"
+msgstr ""
+
+msgctxt "#30392"
+msgid "512"
+msgstr ""
+
+msgctxt "#30393"
+msgid "Aspect Ratio Correction (TT/Falcon)"
+msgstr ""
+
+msgctxt "#30394"
+msgid "Correct the monitor aspect ratio for TT/Falcon video modes."
+msgstr ""
+
+msgctxt "#30395"
+msgid "Devices"
+msgstr ""
+
+msgctxt "#30396"
+msgid "Configure joystick ports."
+msgstr ""
+
+msgctxt "#30397"
+msgid "Joystick Port 0"
+msgstr ""
+
+msgctxt "#30398"
+msgid "Select how ST joystick port 0 is controlled."
+msgstr ""
+
+msgctxt "#30399"
+msgid "Emulated with keyboard"
+msgstr ""
+
+msgctxt "#30400"
+msgid "RetroPad"
+msgstr ""
+
+msgctxt "#30401"
+msgid "Joystick Port 1"
+msgstr ""
+
+msgctxt "#30402"
+msgid "Select how ST joystick port 1 is controlled."
+msgstr ""
+
+msgctxt "#30403"
+msgid "Joystick Autofire"
+msgstr ""
+
+msgctxt "#30404"
+msgid "Enable autofire on the emulated joystick ports."
+msgstr ""
+
+msgctxt "#30405"
+msgid "Virtual Keyboard"
+msgstr ""
+
+msgctxt "#30406"
+msgid "The on-screen keyboard, shown and hidden with the button chosen below. Disable it when a real keyboard is used, so that no RetroPad button brings it up."
+msgstr ""
+
+msgctxt "#30407"
+msgid "Virtual Keyboard Button"
+msgstr ""
+
+msgctxt "#30408"
+msgid "RetroPad button that shows and hides the on-screen keyboard. While it is shown, the D-pad or left stick moves, B presses the key, Y toggles Shift and R switches between the main keys and the keypad; a touchscreen can tap the keys. The first RetroPad does not drive the joystick meanwhile."
+msgstr ""
+
+msgctxt "#30409"
+msgid "X"
+msgstr ""
+
+msgctxt "#30410"
+msgid "Select"
+msgstr ""
+
+msgctxt "#30411"
+msgid "Start"
+msgstr ""
+
+msgctxt "#30412"
+msgid "L"
+msgstr ""
+
+msgctxt "#30413"
+msgid "L3"
+msgstr ""
+
+msgctxt "#30414"
+msgid "R3"
+msgstr ""
+
+msgctxt "#30415"
+msgid "Virtual Keyboard Colors"
+msgstr ""
+
+msgctxt "#30416"
+msgid "Colors of the on-screen keyboard. Its Col key switches them too."
+msgstr ""
+
+msgctxt "#30417"
+msgid "Beige"
+msgstr ""
+
+msgctxt "#30418"
+msgid "Dark"
+msgstr ""
+
+msgctxt "#30419"
+msgid "Light"
+msgstr ""
+
+msgctxt "#30420"
+msgid "Joystick Button 2 = Jump"
+msgstr ""
+
+msgctxt "#30421"
+msgid "Map the second RetroPad fire button to Up (jump), for games that use it as a shortcut."
 msgstr ""
