@@ -1,0 +1,19 @@
+--- a/src/CMakeLists.txt
++++ b/src/CMakeLists.txt
+@@ -414,4 +414,16 @@
+ 	if(Readline_FOUND)
+ 		target_link_libraries(hatari_libretro ${READLINE_LIBRARY})
+ 	endif(Readline_FOUND)
++
++	if(Math_FOUND AND NOT APPLE)
++		target_link_libraries(hatari_libretro ${MATH_LIBRARY})
++	endif()
++
++	if(Udev_FOUND)
++		target_link_libraries(hatari_libretro ${UDEV_LIBRARY})
++	endif()
++
++	install(TARGETS hatari_libretro
++		LIBRARY DESTINATION lib/libretro
++		RUNTIME DESTINATION lib/libretro)
+ endif(ENABLE_LIBRETRO)
