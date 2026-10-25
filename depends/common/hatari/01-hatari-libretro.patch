@@ -1,0 +1,11 @@
+--- a/src/CMakeLists.txt
++++ b/src/CMakeLists.txt
+@@ -481,4 +481,8 @@ if(ENABLE_LIBRETRO)
+        if(CapsImage_FOUND)
+                target_link_libraries(retro-hatari ${CAPSIMAGE_LIBRARY})
+        endif(CapsImage_FOUND)
++
++       install(TARGETS retro-hatari
++               LIBRARY DESTINATION lib/libretro
++               RUNTIME DESTINATION lib/libretro)
+ endif(ENABLE_LIBRETRO)
