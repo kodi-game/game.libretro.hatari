@@ -2,10 +2,10 @@
 <buttonmap version="2">
     <controller id="game.controller.atari.2600" type="RETRO_DEVICE_JOYPAD" subclass="0">
         <feature name="fire" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
-        <feature name="joystick" direction="up" mapto="RETRO_DEVICE_ID_JOYPAD_UP"/>
-        <feature name="joystick" direction="down" mapto="RETRO_DEVICE_ID_JOYPAD_DOWN"/>
-        <feature name="joystick" direction="right" mapto="RETRO_DEVICE_ID_JOYPAD_RIGHT"/>
-        <feature name="joystick" direction="left" mapto="RETRO_DEVICE_ID_JOYPAD_LEFT"/>
+        <feature name="up" mapto="RETRO_DEVICE_ID_JOYPAD_UP"/>
+        <feature name="down" mapto="RETRO_DEVICE_ID_JOYPAD_DOWN"/>
+        <feature name="right" mapto="RETRO_DEVICE_ID_JOYPAD_RIGHT"/>
+        <feature name="left" mapto="RETRO_DEVICE_ID_JOYPAD_LEFT"/>
     </controller>
     <controller id="game.controller.mouse" type="RETRO_DEVICE_MOUSE">
         <feature name="left" mapto="RETRO_DEVICE_ID_MOUSE_LEFT"/>
