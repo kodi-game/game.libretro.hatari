@@ -1,1 +1,1 @@
-hatari https://github.com/libretro/hatari/archive/50929946d196f431906932420c55e1b3593dacc5.tar.gz
+hatari https://github.com/libretro/hatari/archive/819c2f7fb2e3aaea5ce6a7db99836af3a985fcbd.tar.gz
