@@ -1,11 +1,25 @@
+From 1be08785a3feafacf9fb3f2ba9123851f1400dad Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Thu, 12 Nov 2026 22:47:23 -0800
+Subject: Fix missing library
+
+---
+ src/CMakeLists.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+diff --git a/src/CMakeLists.txt b/src/CMakeLists.txt
+index 3a4311aa1..763feeb7b 100644
 --- a/src/CMakeLists.txt
 +++ b/src/CMakeLists.txt
 @@ -481,4 +481,8 @@ if(ENABLE_LIBRETRO)
-        if(CapsImage_FOUND)
-                target_link_libraries(retro-hatari ${CAPSIMAGE_LIBRARY})
-        endif(CapsImage_FOUND)
+ 	if(CapsImage_FOUND)
+ 		target_link_libraries(retro-hatari ${CAPSIMAGE_LIBRARY})
+ 	endif(CapsImage_FOUND)
 +
-+       install(TARGETS retro-hatari
-+               LIBRARY DESTINATION lib/libretro
-+               RUNTIME DESTINATION lib/libretro)
++	install(TARGETS retro-hatari
++		LIBRARY DESTINATION lib/libretro
++		RUNTIME DESTINATION lib/libretro)
  endif(ENABLE_LIBRETRO)
+-- 
+2.54.0 (Apple Git-157)
+
